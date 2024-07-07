@@ -1,0 +1,140 @@
+.modal-window-outside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  flex-direction: column;
+  padding: 3px;
+  background-color: blue;
+  color: white;
+  margin: 0 auto;
+  border-radius: 5px;
+  height: 90%;
+  width: 90%;
+}
+
+.modal-window-inside {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: white;
+  color: black;
+  height: 100%;
+  overflow: scroll;
+}
+
+.modal-terminal-outside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  flex-direction: column;
+  font-family: "terminal", sans-serif;
+  background-color: #292929;
+  color: white;
+  padding: 3px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.modal-terminal-inside {
+  font-family: "terminal", sans-serif;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  height: 100%;
+  margin-top: 5px;
+  overflow: scroll;
+}
+
+.window-menu {
+  list-style-type: none;
+}
+
+@media screen and (min-width: 375px) {
+  .modal-window-outside,
+  .modal-terminal-outside {
+    min-width: 320px;
+    height: 80%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .modal-window-outside,
+  .modal-terminal-outside {
+    min-width: 720px;
+  }
+
+  .window-menu {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    border-right: 1px solid lightgray;
+    padding: 10px;
+    gap: 10px;
+    list-style-type: none;
+  }
+
+  .lection-layout {
+    padding-left: 200px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .modal-window-outside,
+  .modal-terminal-outside {
+    min-width: 1000px;
+  }
+}
+
+.is-open {
+  display: flex;
+}
+
+.title-button {
+  margin-top: 3px;
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.folder-title {
+  text-transform: uppercase;
+  color: white;
+  font-size: 16px;
+  background-color: transparent;
+}
+
+.cross-icon {
+  border: 1px solid white;
+  border-radius: 5%;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  background-color: red;
+
+  &:hover {
+    background-color: darkred;
+  }
+}
+
+.cross-icon-black {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid white;
+  border-radius: 5%;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+
+  &:hover {
+    background-color: #292929;
+  }
+}

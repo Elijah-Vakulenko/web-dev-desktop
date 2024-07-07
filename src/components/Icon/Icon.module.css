@@ -1,0 +1,57 @@
+.icon {
+  padding: 8px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  &:hover {
+    background-color: rgba(205, 209, 228, 0.5);
+  }
+}
+
+.white {
+  fill: white;
+}
+
+.dev-icon {
+  fill: gold;
+}
+
+.orange {
+  fill: orangered;
+}
+
+.red {
+  fill: red;
+}
+
+.purple {
+  fill: #5a228b;
+}
+
+.lightblue {
+  fill: #1378a1;
+}
+
+.blue {
+  fill: blue;
+}
+
+.darkblue {
+  fill: #0e2587;
+}
+
+.green {
+  fill: #0dc236;
+}
+
+.icon-title {
+  color: white;
+  font-size: 12px;
+  margin: 0;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+}
