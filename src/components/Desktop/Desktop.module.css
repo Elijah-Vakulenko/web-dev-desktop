@@ -30,7 +30,7 @@
   }
 }
 
-/* .item {
+.item {
   border: 1px solid #292929;
   padding: 10px;
   background-color: transparent;
@@ -103,4 +103,4 @@
 
 .no-scroll {
   overflow: hidden;
-} */
+}

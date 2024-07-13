@@ -36,6 +36,7 @@ ol {
 
 li {
   padding-left: 15;
+  list-style: none;
 }
 
 a {

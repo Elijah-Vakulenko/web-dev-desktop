@@ -6,12 +6,13 @@ const Icon = ({modalType, svgUrl, iconTitle,  handleOpenModal}) => {
     <div className={s.icon}>
         <button onClick={() => handleOpenModal(modalType)}>
           <svg className={s.dev_icon} width="40" height="40">
-            <use href={svgUrl}></use>
+            <use xlinkHref={svgUrl}></use>
           </svg>
         </button>
         <p className={s.icon_title}>{iconTitle}</p>
       </div>
   )
 }
+
 
 export default Icon
