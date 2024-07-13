@@ -1,4 +1,4 @@
-.modal-window-outside {
+.modal_window_outside {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -14,7 +14,7 @@
   width: 90%;
 }
 
-.modal-window-inside {
+.modal_window_inside {
   display: flex;
   flex-direction: column;
   padding: 10px;
@@ -25,7 +25,7 @@
   overflow: scroll;
 }
 
-.modal-terminal-outside {
+.modal_terminal_outside {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -40,7 +40,7 @@
   width: 90%;
 }
 
-.modal-terminal-inside {
+.modal_terminal_inside {
   font-family: "terminal", sans-serif;
   padding: 10px;
   background-color: black;
@@ -50,25 +50,25 @@
   overflow: scroll;
 }
 
-.window-menu {
+.window_menu {
   list-style-type: none;
 }
 
 @media screen and (min-width: 375px) {
-  .modal-window-outside,
-  .modal-terminal-outside {
+  .modal_window_outside,
+  .modal_terminal_outside {
     min-width: 320px;
     height: 80%;
   }
 }
 
 @media screen and (min-width: 768px) {
-  .modal-window-outside,
-  .modal-terminal-outside {
+  .modal_window_outside,
+  .modal_terminal_outside {
     min-width: 720px;
   }
 
-  .window-menu {
+  .window_menu {
     display: flex;
     position: fixed;
     flex-direction: column;
@@ -78,23 +78,23 @@
     list-style-type: none;
   }
 
-  .lection-layout {
+  .lection_layout {
     padding-left: 200px;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .modal-window-outside,
-  .modal-terminal-outside {
+  .modal_window_outside,
+  .modal_terminal_outside {
     min-width: 1000px;
   }
 }
 
-.is-open {
+.is_open {
   display: flex;
 }
 
-.title-button {
+.title_button {
   margin-top: 3px;
   padding: 0 5px;
   display: flex;
@@ -102,14 +102,14 @@
   justify-content: space-between;
 }
 
-.folder-title {
+.folder_title {
   text-transform: uppercase;
   color: white;
   font-size: 16px;
   background-color: transparent;
 }
 
-.cross-icon {
+.cross_icon {
   border: 1px solid white;
   border-radius: 5%;
   width: 30px;
@@ -124,7 +124,7 @@
   }
 }
 
-.cross-icon-black {
+.cross_icon_black {
   display: flex;
   align-items: center;
   justify-content: center;

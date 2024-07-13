@@ -15,4 +15,7 @@ const App = () => {
   )
 }
 
+
+'../img/'
+
 export default App

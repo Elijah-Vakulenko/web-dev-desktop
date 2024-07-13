@@ -1,0 +1,32 @@
+.container {
+  background-image: url("./img/win-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  outline: 1px solid greenyellow;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin: 0 auto;
+  height: 90vh;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .container {
+    flex-direction: column;
+    max-width: 100%;
+    background-size: 100%;
+  }
+}

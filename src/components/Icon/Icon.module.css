@@ -12,43 +12,7 @@
   }
 }
 
-.white {
-  fill: white;
-}
-
-.dev-icon {
-  fill: gold;
-}
-
-.orange {
-  fill: orangered;
-}
-
-.red {
-  fill: red;
-}
-
-.purple {
-  fill: #5a228b;
-}
-
-.lightblue {
-  fill: #1378a1;
-}
-
-.blue {
-  fill: blue;
-}
-
-.darkblue {
-  fill: #0e2587;
-}
-
-.green {
-  fill: #0dc236;
-}
-
-.icon-title {
+.icon_title {
   color: white;
   font-size: 12px;
   margin: 0;
