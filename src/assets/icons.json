@@ -2,7 +2,7 @@
     {
     "id":1,
     "modalType":"lections", 
-    "svgUrl": "../img/symbol-defs.svg#icon-folder-open",
+    "svgUrl": "./img/symbol-defs.svg#icon-folder-open",
     "iconTitle": "GoIt lections" 
   
 },
@@ -101,7 +101,7 @@
     "id":15,
     "modalType": "job", 
     "svgUrl": "../img/symbol-defs.svg#icon-linkedin",
-    "iconTitle": "Job", 
+    "iconTitle": "Job" 
   
 },
 {
@@ -117,6 +117,5 @@
     "svgUrl": "../img/symbol-defs.svg#icon-googletranslate",
     "iconTitle": "English"
   
-},
-
+}
 ]

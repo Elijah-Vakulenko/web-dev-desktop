@@ -1,7 +1,7 @@
 import React from 'react'
 import s from './Icon.module.css'
 
-const Icon = ({modalType, svgUrl, iconTitle, id}) => {
+const Icon = ({modalType, svgUrl, iconTitle,  handleOpenModal}) => {
   return (
     <div className={s.icon}>
         <button onClick={() => handleOpenModal(modalType)}>

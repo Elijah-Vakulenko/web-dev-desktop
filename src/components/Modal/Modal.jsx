@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import s from './Modal.module.css';
 
+
 const Modal = ({ title, close, layout, children }) => {
   useEffect(() => {
     const handleKeyDown = (e) => {
@@ -33,7 +34,7 @@ const Modal = ({ title, close, layout, children }) => {
           </button>
         </div>
         <div className={s.modal_window_inside}>
-          {children} {/* Дочерние элементы будут отрендерены здесь */}
+          {children}
         </div>
       </div>
     </div>

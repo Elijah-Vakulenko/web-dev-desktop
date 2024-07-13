@@ -1,0 +1,201 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #292929;
+  font-family: "segoe", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+h2 {
+  padding: 15px 0;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  padding-left: 15;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+
+  &:hover {
+    color: orangered;
+    font-weight: bold;
+  }
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@font-face {
+  font-family: "terminal";
+  src: url("./font/terminal.ttf");
+}
+
+@font-face {
+  font-family: "segoe";
+  src: url("./font/Segoe-UI.ttf");
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main-title {
+  font-family: "terminal", sans-serif;
+  font-size: 25px;
+  color: beige;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.container {
+  background-image: url("./img/win-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin: 0 auto;
+  height: 90vh;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .container {
+    flex-direction: column;
+    max-width: 100%;
+    background-size: 100%;
+  }
+}
+
+.item {
+  border: 1px solid #292929;
+  padding: 10px;
+  background-color: transparent;
+}
+
+.copy {
+  color: white;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.list-item {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.list li {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    opacity: 0.8;
+    z-index: -1;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.overlay.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.link-with-favicon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.link-with-favicon img {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+}
+
+.no-scroll {
+  overflow: hidden;
+}

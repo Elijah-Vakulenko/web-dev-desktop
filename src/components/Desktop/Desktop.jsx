@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import Modal from '../Modal/Modal';
-import Icon from '../Icon/icon';
+import Icon from '../Icon/Icon';
 import s from './Desktop.module.css';
 import icons from '../../assets/icons.json';
 
-import LectionsContent from '../Content/Lections';
+
+// import LectionsContent from '../Content/Lections';
 import HTMLContent from '../Content/Html';
 import CSSContent from '../Content/Css';
 
@@ -23,18 +24,19 @@ const Desktop = () => {
     <div className={s.container}>
       <ul className={s.list}>
         {icons.map((icon) => (
-          <li key={icons.id}>
+          <li key={icon.id}>
             <Icon
-              modalType={icons.modalType}
-              svgUrl={icons.svgUrl}
-              iconTitle={icons.iconTitle}/>
+              modalType={icon.modalType}
+              svgUrl={icon.svgUrl}
+              iconTitle={icon.iconTitle}
+            handleOpenModal={handleOpenModal}/>
           </li>
         ))}
     </ul>
 
       {openModal === 'lections' && (
         <Modal title="Lections" close={handleCloseModal} layout={s.modal_window_outside}>
-          <LectionsContent />
+      <HTMLContent />
         </Modal>
       )}
       {openModal === 'html' && (
@@ -117,8 +119,6 @@ const Desktop = () => {
           <CSSContent />
         </Modal>
       )}
-
-
     </div>
   );
 };
