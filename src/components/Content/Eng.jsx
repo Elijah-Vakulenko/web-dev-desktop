@@ -36,6 +36,9 @@ const Eng = () => {
     <li>
       <a className="link-with-favicon" href="https://www.instagram.com/makashovskiy?igsh=YTAxM2ZqZ25sNmw1">Кирило Макашов</a>
     </li>
+    <li>
+      <a className="link-with-favicon" href="https://www.instagram.com/vladachunikhina/">Влада Чуніхіна | Вища Англійська</a>
+    </li>
   </ul>
 
   <h2>English learning materials</h2>
