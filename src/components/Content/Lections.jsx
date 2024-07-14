@@ -3,9 +3,9 @@ import React from 'react'
 const Lections = () => {
 return (
   <>
-    <div className="window-menu">
+    <div className="window_menu">
       <ul>
-                <li className="list-item"><a href="https://www.edu.goit.global/uk/homepage">GoIt Homepage</a></li>
+                <li><a href="https://www.edu.goit.global/uk/homepage">GoIt Homepage</a></li>
                 <li><a href="#html-danilko">HTML/CSS Данилко</a></li>
                 <li><a href="#html-repeta">HTML/CSS Репета</a></li>
                 <li><a href="#js-kyslicin">JavaScript Кисліцин</a></li>
@@ -17,7 +17,7 @@ return (
       </ul>
     </div>
           
-    <div className="lection-layout">
+    <div className="lection_layout">
       <h2 id="html-danilko">Html/CSS від Андрія Данилка</h2>
 
       <ul className="list">

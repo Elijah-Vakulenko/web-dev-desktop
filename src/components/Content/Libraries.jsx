@@ -3,7 +3,7 @@ import React from 'react'
 const Libraries = () => {
   return (
  <div>
-     <div className='window_menu'>
+     <div>
         <ul className="list">
       <li>
         <a className="link-with-favicon" href="https://www.npmjs.com/">npm</a>

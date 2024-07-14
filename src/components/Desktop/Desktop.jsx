@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Modal from '../Modal/Modal';
 import Icon from '../Icon/Icon';
 import s from './Desktop.module.css';
 import icons from '../../assets/icons.json';
+import { applyLinkScript } from '../linkScript';
 //------------------------------------------
 import Lections from  '../Content/Lections'
 import HTMLContent from '../Content/Html';
@@ -34,6 +35,10 @@ const Desktop = () => {
   const handleCloseModal = () => { //modal window closer
     setOpenModal(null);
   };
+
+  useEffect(() => {
+    applyLinkScript(); // Применяем скрипт при загрузке компонента или изменении DOM
+  }, []);
 // ==================================Icons render========================================
   return (
     <div className={s.container}>

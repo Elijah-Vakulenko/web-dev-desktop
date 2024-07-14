@@ -28,8 +28,8 @@ const Modal = ({ title, close, children }) => {
       <div className={s.modal_window_outside}>
         <div className={s.title_button}>
           <p className={s.folder_title}>{title}</p>
-          <button onClick={close} className="cross-icon">
-            <svg className="white" width="20" height="20">
+          <button onClick={close} className={s.cross_icon}>
+            <svg style={{fill: "white"}} width="20" height="20">
               <use href="/img/symbol-defs.svg#icon-close"></use>
             </svg>
           </button>
