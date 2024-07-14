@@ -1,121 +1,104 @@
 [
     {
-    "id":1,
-    "modalType":"lections", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-folder-open",
-    "iconTitle": "GoIt lections" 
-  
-},
-{
-    "id":2,
-    "modalType": "html", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-html5",
-    "iconTitle": "HTML" 
-  
-},
-{
-    "id":3,
-    "modalType": "css", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-csswizardry",
-    "iconTitle": "CSS" 
-  
-},
-{
-    "id":4,
-    "modalType": "js", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-javascript",
-    "iconTitle": "JavaScript" 
-  
-},
-{
-    "id":5,
-    "modalType": "react", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-react2",
-    "iconTitle": "React.js" 
-  
-},
-{
-    "id":6,
-    "modalType": "node", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-nodedotjs",
-    "iconTitle": "Node.js" 
-  
-},
-{
-    "id":7,
-    "modalType": "libraries", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-npm",
-    "iconTitle": "Libraries / API" 
-  
-},
-{
-    "id":8,
-    "modalType": "youtube", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-youtube",
-    "iconTitle": "YouTube for developers"
-  
-},
-{
-    "id":9,
-    "modalType": "vscode", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-visualstudiocode",
-    "iconTitle": "VS Code plugins"
-  
-},
-{
-    "id":10,
-    "modalType": "img", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-adobephotoshop2",
-    "iconTitle": "Image Editors" 
-  
-},
-{
-    "id":11,
-    "modalType": "design", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-figma",
-    "iconTitle": "WEB DESIGN"
-  
-},
-{
-    "id":12,
-    "modalType": "helpfull", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-openai",
-    "iconTitle": "Helpfull stuff" 
-  
-},
-{
-    "id":13,
-    "modalType": "repository", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-github",
-    "iconTitle": "Repository setup"
-  
-},
-{
-    "id":14,
-    "modalType": "git", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-git",
-    "iconTitle": "Git hints" 
-  
-},
-{
-    "id":15,
-    "modalType": "job", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-linkedin",
-    "iconTitle": "Job" 
-  
-},
-{
-    "id":16,
-    "modalType": "organizer", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-slack",
-    "iconTitle": "Work organizer"
-  
-},
-{
-    "id":17,
-    "modalType": "english", 
-    "svgUrl": "../../img/symbol-defs.svg#icon-googletranslate",
-    "iconTitle": "English"
-  
-}
+        "id": 1,
+        "modalType": "lections", 
+        "svgUrl": "/img/symbol-defs.svg#icon-folder-open",
+        "iconTitle": "GoIt lections"
+    },
+    {
+        "id": 2,
+        "modalType": "html", 
+        "svgUrl": "/img/symbol-defs.svg#icon-html5",
+        "iconTitle": "HTML"
+    },
+    {
+        "id": 3,
+        "modalType": "css", 
+        "svgUrl": "/img/symbol-defs.svg#icon-csswizardry",
+        "iconTitle": "CSS"
+    },
+    {
+        "id": 4,
+        "modalType": "js", 
+        "svgUrl": "/img/symbol-defs.svg#icon-javascript",
+        "iconTitle": "JavaScript"
+    },
+    {
+        "id": 5,
+        "modalType": "react", 
+        "svgUrl": "/img/symbol-defs.svg#icon-react2",
+        "iconTitle": "React.js"
+    },
+    {
+        "id": 6,
+        "modalType": "node", 
+        "svgUrl": "/img/symbol-defs.svg#icon-nodedotjs",
+        "iconTitle": "Node.js"
+    },
+    {
+        "id": 7,
+        "modalType": "libraries", 
+        "svgUrl": "/img/symbol-defs.svg#icon-npm",
+        "iconTitle": "Libraries / API"
+    },
+    {
+        "id": 8,
+        "modalType": "youtube", 
+        "svgUrl": "/img/symbol-defs.svg#icon-youtube",
+        "iconTitle": "YouTube for developers"
+    },
+    {
+        "id": 9,
+        "modalType": "vscode", 
+        "svgUrl": "/img/symbol-defs.svg#icon-visualstudiocode",
+        "iconTitle": "VS Code plugins"
+    },
+    {
+        "id": 10,
+        "modalType": "img", 
+        "svgUrl": "/img/symbol-defs.svg#icon-adobephotoshop2",
+        "iconTitle": "Image Editors"
+    },
+    {
+        "id": 11,
+        "modalType": "design", 
+        "svgUrl": "/img/symbol-defs.svg#icon-figma",
+        "iconTitle": "WEB DESIGN"
+    },
+    {
+        "id": 12,
+        "modalType": "helpfull", 
+        "svgUrl": "/img/symbol-defs.svg#icon-openai",
+        "iconTitle": "Helpfull stuff"
+    },
+    {
+        "id": 13,
+        "modalType": "repository", 
+        "svgUrl": "/img/symbol-defs.svg#icon-github",
+        "iconTitle": "Repository setup"
+    },
+    {
+        "id": 14,
+        "modalType": "git", 
+        "svgUrl": "/img/symbol-defs.svg#icon-git",
+        "iconTitle": "Git hints"
+    },
+    {
+        "id": 15,
+        "modalType": "job", 
+        "svgUrl": "/img/symbol-defs.svg#icon-linkedin",
+        "iconTitle": "Job"
+    },
+    {
+        "id": 16,
+        "modalType": "organizer", 
+        "svgUrl": "/img/symbol-defs.svg#icon-slack",
+        "iconTitle": "Work organizer"
+    },
+    {
+        "id": 17,
+        "modalType": "english", 
+        "svgUrl": "/img/symbol-defs.svg#icon-googletranslate",
+        "iconTitle": "English"
+    }
 ]

@@ -27,14 +27,14 @@ import Eng from '../Content/Eng';
 const Desktop = () => {
   const [openModal, setOpenModal] = useState(null);
 
-  const handleOpenModal = (modalType) => {
+  const handleOpenModal = (modalType) => { //modal window opener
     setOpenModal(modalType);
   };
 
-  const handleCloseModal = () => {
+  const handleCloseModal = () => { //modal window closer
     setOpenModal(null);
   };
-
+// ==================================Icons render========================================
   return (
     <div className={s.container}>
         {icons.map((icon) => (
@@ -47,7 +47,7 @@ const Desktop = () => {
             />
           </li>
         ))}
-
+{/* ============================Modal windows=============================== */}
       {openModal === 'lections' && (
         <Modal title="Lections" close={handleCloseModal}>
           <Lections />
