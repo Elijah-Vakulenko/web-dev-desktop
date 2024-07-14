@@ -184,3 +184,36 @@ html {
     background-color: #292929;
   }
 }
+
+.command-list {
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.command {
+  font-family: "terminal", sans-serif;
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #333333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  @media screen and (min-width: 768px) {
+    max-width: 720px;
+  }
+}
+
+.command button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 5%;
+  width: 30px;
+  height: 30px;
+}

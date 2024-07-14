@@ -51,13 +51,10 @@ export const applyLinkScript = () => {
 
   observer.observe(document.body, { childList: true, subtree: true });
 
-  // Добавляем обработчик кликов на якорные ссылки
   document.addEventListener('click', (event) => {
     if (event.target.tagName === 'A' && event.target.href.includes('#')) {
-      // Якорная ссылка - ничего не делаем
+   
       return;
     }
-
-    // Для всех остальных кликов добавьте нужную логику, если необходимо
   });
 };
