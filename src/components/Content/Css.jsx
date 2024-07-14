@@ -22,6 +22,9 @@ const Css = () => {
                 <a className="link-with-favicon" href="https://cssgradient.io/">CSS Gradient Generator</a>
             </li>
             <li>
+                <a className="link-with-favicon" href="https://cssgenerator.pl/en/box-shadow-generator/">Box Shadow Generator</a>
+            </li>
+            <li>
                 <a className="link-with-favicon" href="https://www.cssportal.com/css3-menu-generator/">CSS Menu Generator</a>
             </li>
             <li>

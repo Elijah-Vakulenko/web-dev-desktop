@@ -42,6 +42,9 @@ const Eng = () => {
   <ul className="list">
     <li>
       <a className="link-with-favicon" href="https://play.google.com/store/apps/details?id=com.ttdictionary.ruseng">Русско-Английский словарь TTdictionary Offline (додаток для Андроїд. Найращий словник з прикладами вживання слів в різних сферах)</a>
+        </li>
+         <li>
+      <a className="link-with-favicon" href="https://www.deepl.com/ru/translator">DeepL (перекладач)</a>
     </li>
   </ul>
 </div>
