@@ -44,6 +44,8 @@ const Desktop = () => {
               svgUrl={icon.svgUrl}
               iconTitle={icon.iconTitle}
               handleOpenModal={handleOpenModal}
+              color={icon.color}
+              bg={icon.bg}
             />
           </li>
         ))}
@@ -103,7 +105,7 @@ const Desktop = () => {
           <WebDesign />
         </Modal>
       )}
-      {openModal === 'helpfull' && (
+      {openModal === 'helpful' && (
         <Modal title="HELPFUL STUFF" close={handleCloseModal}>
           <HelpfulStuff />
         </Modal>

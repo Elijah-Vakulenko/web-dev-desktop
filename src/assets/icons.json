@@ -3,7 +3,8 @@
         "id": 1,
         "modalType": "lections", 
         "svgUrl": "/img/symbol-defs.svg#icon-folder-open",
-        "iconTitle": "GoIt lections"
+        "iconTitle": "GoIt lections",
+        "color": "#F2CF6C"
     },
     {
         "id": 2,
@@ -21,19 +22,22 @@
         "id": 4,
         "modalType": "js", 
         "svgUrl": "/img/symbol-defs.svg#icon-javascript",
-        "iconTitle": "JavaScript"
+        "iconTitle": "JavaScript",
+        "color": "#EFD81D"
     },
     {
         "id": 5,
         "modalType": "react", 
         "svgUrl": "/img/symbol-defs.svg#icon-react2",
-        "iconTitle": "React.js"
+        "iconTitle": "React.js",
+        "color": "#087EA4"
     },
     {
         "id": 6,
         "modalType": "node", 
         "svgUrl": "/img/symbol-defs.svg#icon-nodedotjs",
-        "iconTitle": "Node.js"
+        "iconTitle": "Node.js",
+        "color": "#5CAD47"
     },
     {
         "id": 7,
@@ -45,7 +49,8 @@
         "id": 8,
         "modalType": "youtube", 
         "svgUrl": "/img/symbol-defs.svg#icon-youtube",
-        "iconTitle": "YouTube for developers"
+        "iconTitle": "YouTube for developers",
+        "color": "#FF0000"
     },
     {
         "id": 9,
@@ -57,19 +62,23 @@
         "id": 10,
         "modalType": "img", 
         "svgUrl": "/img/symbol-defs.svg#icon-adobephotoshop2",
-        "iconTitle": "Image Editors"
+        "iconTitle": "Image Editors",
+        "color": "#001833"
     },
     {
         "id": 11,
         "modalType": "design", 
         "svgUrl": "/img/symbol-defs.svg#icon-figma",
-        "iconTitle": "WEB DESIGN"
+        "iconTitle": "WEB DESIGN",
+        "color": "#FF7161"
     },
     {
         "id": 12,
-        "modalType": "helpfull", 
+        "modalType": "helpful", 
         "svgUrl": "/img/symbol-defs.svg#icon-openai",
-        "iconTitle": "Helpfull stuff"
+        "iconTitle": "Helpful stuff",
+        "color": "#10A37F",
+        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #10A37F\"}"
     },
     {
         "id": 13,
@@ -81,7 +90,8 @@
         "id": 14,
         "modalType": "git", 
         "svgUrl": "/img/symbol-defs.svg#icon-git",
-        "iconTitle": "Git hints"
+        "iconTitle": "Git hints",
+        "color": "#E84D31"
     },
     {
         "id": 15,
@@ -99,6 +109,8 @@
         "id": 17,
         "modalType": "english", 
         "svgUrl": "/img/symbol-defs.svg#icon-googletranslate",
-        "iconTitle": "English"
+        "iconTitle": "English",
+        "color": "#4B8BF5",
+        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #4B8BF5\"}"
     }
 ]
