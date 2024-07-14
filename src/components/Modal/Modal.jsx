@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import s from './Modal.module.css';
 
-
-const Modal = ({ title, close, layout, children }) => {
+const Modal = ({ title, close, children }) => {
   useEffect(() => {
     const handleKeyDown = (e) => {
       if (e.key === 'Escape') {
@@ -24,16 +23,16 @@ const Modal = ({ title, close, layout, children }) => {
 
   return (
     <div className={s.overlay} onClick={handleBackdropClick}>
-      <div className={layout}>
+      <div className="modal_window_outside">
         <div className={s.title_button}>
           <p className={s.folder_title}>{title}</p>
           <button onClick={close} className="cross-icon">
             <svg className="white" width="20" height="20">
-              <use href="./img/symbol-defs.svg#icon-close"></use>
+              <use href="/img/symbol-defs.svg#icon-close"></use>
             </svg>
           </button>
         </div>
-        <div className={s.modal_window_inside}>
+        <div className="modal_window_inside">
           {children}
         </div>
       </div>
