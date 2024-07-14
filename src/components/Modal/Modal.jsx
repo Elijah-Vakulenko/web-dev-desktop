@@ -10,8 +10,10 @@ const Modal = ({ title, close, children }) => {
     };
 
     document.addEventListener('keydown', handleKeyDown);
+    document.body.classList.add('modal-open');
     return () => {
       document.removeEventListener('keydown', handleKeyDown);
+      document.body.classList.remove('modal-open'); 
     };
   }, [close]);
 
@@ -23,7 +25,7 @@ const Modal = ({ title, close, children }) => {
 
   return (
     <div className={s.overlay} onClick={handleBackdropClick}>
-      <div className="modal_window_outside">
+      <div className={s.modal_window_outside}>
         <div className={s.title_button}>
           <p className={s.folder_title}>{title}</p>
           <button onClick={close} className="cross-icon">
@@ -32,7 +34,7 @@ const Modal = ({ title, close, children }) => {
             </svg>
           </button>
         </div>
-        <div className="modal_window_inside">
+        <div className={s.modal_window_inside}>
           {children}
         </div>
       </div>
