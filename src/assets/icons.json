@@ -1,116 +1,143 @@
 [
     {
         "id": 1,
-        "modalType": "lections", 
+        "modalType": "lections",
         "svgUrl": "/img/symbol-defs.svg#icon-folder-open",
         "iconTitle": "GoIt lections",
-        "color": "#F2CF6C"
+        "color": "#F2CF6C",
+        "contentComponent": "Lections"
     },
     {
         "id": 2,
-        "modalType": "html", 
+        "modalType": "html",
         "svgUrl": "/img/symbol-defs.svg#icon-html5",
-        "iconTitle": "HTML"
+        "iconTitle": "HTML",
+        "contentComponent": "HTMLContent"
     },
     {
         "id": 3,
-        "modalType": "css", 
+        "modalType": "css",
         "svgUrl": "/img/symbol-defs.svg#icon-csswizardry",
-        "iconTitle": "CSS"
+        "iconTitle": "CSS",
+        "contentComponent": "CSSContent"
     },
     {
         "id": 4,
-        "modalType": "js", 
+        "modalType": "js",
         "svgUrl": "/img/symbol-defs.svg#icon-javascript",
         "iconTitle": "JavaScript",
-        "color": "#EFD81D"
+        "color": "#EFD81D",
+        "contentComponent": "JavaScript"
     },
     {
         "id": 5,
-        "modalType": "react", 
+        "modalType": "react",
         "svgUrl": "/img/symbol-defs.svg#icon-react2",
         "iconTitle": "React.js",
-        "color": "#087EA4"
+        "color": "#087EA4",
+        "contentComponent": "ReactLinks"
     },
     {
-        "id": 6,
-        "modalType": "node", 
-        "svgUrl": "/img/symbol-defs.svg#icon-nodedotjs",
-        "iconTitle": "Node.js",
-        "color": "#5CAD47"
-    },
+    "id": 6,
+    "modalType": "node",
+    "svgUrl": "/img/symbol-defs.svg#icon-nodedotjs",
+    "iconTitle": "Node.js",
+    "color": "#5CAD47",
+    "contentComponent": "NodeLinks",
+    "modalStyles": {
+      "outside": "modal_terminal_outside",
+      "inside": "modal_terminal_inside",
+      "crossIcon": "cross_icon_black"
+    }
+  },
     {
         "id": 7,
-        "modalType": "libraries", 
+        "modalType": "libraries",
         "svgUrl": "/img/symbol-defs.svg#icon-npm",
-        "iconTitle": "Libraries / API"
+        "iconTitle": "Libraries / API",
+        "contentComponent": "Libraries"
     },
     {
         "id": 8,
-        "modalType": "youtube", 
+        "modalType": "youtube",
         "svgUrl": "/img/symbol-defs.svg#icon-youtube",
         "iconTitle": "YouTube for developers",
-        "color": "#FF0000"
+        "color": "#FF0000",
+        "contentComponent": "YouTube"
     },
     {
         "id": 9,
-        "modalType": "vscode", 
+        "modalType": "vscode",
         "svgUrl": "/img/symbol-defs.svg#icon-visualstudiocode",
-        "iconTitle": "VS Code plugins"
+        "iconTitle": "VS Code plugins",
+        "contentComponent": "VSCode"
     },
     {
         "id": 10,
-        "modalType": "img", 
+        "modalType": "img",
         "svgUrl": "/img/symbol-defs.svg#icon-adobephotoshop2",
         "iconTitle": "Image Editors",
-        "color": "#001833"
+        "color": "#001833",
+        "contentComponent": "ImageEditors"
     },
     {
         "id": 11,
-        "modalType": "design", 
+        "modalType": "design",
         "svgUrl": "/img/symbol-defs.svg#icon-figma",
         "iconTitle": "WEB DESIGN",
-        "color": "#FF7161"
+        "color": "#FF7161",
+        "contentComponent": "WebDesign"
     },
     {
         "id": 12,
-        "modalType": "helpful", 
+        "modalType": "helpful",
         "svgUrl": "/img/symbol-defs.svg#icon-openai",
         "iconTitle": "Helpful stuff",
         "color": "#10A37F",
-        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #10A37F\"}"
+        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #10A37F\"}",
+        "contentComponent": "HelpfulStuff"
     },
     {
         "id": 13,
-        "modalType": "repository", 
+        "modalType": "repository",
         "svgUrl": "/img/symbol-defs.svg#icon-github",
-        "iconTitle": "Repository setup"
+        "iconTitle": "Repository setup",
+        "contentComponent": "Repository"
     },
     {
-        "id": 14,
-        "modalType": "git", 
-        "svgUrl": "/img/symbol-defs.svg#icon-git",
-        "iconTitle": "Git hints",
-        "color": "#E84D31"
-    },
+    "id": 14,
+    "modalType": "git",
+    "svgUrl": "/img/symbol-defs.svg#icon-git",
+    "iconTitle": "Git hints",
+    "color": "#E84D31",
+    "contentComponent": "Git",
+    "modalStyles": {
+      "outside": "modal_terminal_outside",
+      "inside": "modal_terminal_inside",
+      "crossIcon": "cross_icon_black"
+    }
+  },
     {
         "id": 15,
-        "modalType": "job", 
+        "modalType": "job",
         "svgUrl": "/img/symbol-defs.svg#icon-linkedin",
-        "iconTitle": "Job"
+        "iconTitle": "Job",
+        "contentComponent": "Job"
     },
     {
         "id": 16,
-        "modalType": "organizer", 
+        "modalType": "organizer",
         "svgUrl": "/img/symbol-defs.svg#icon-slack",
-        "iconTitle": "Work organizer"
+        "iconTitle": "Work organizer",
+        "contentComponent": "Organizer"
     },
     {
         "id": 17,
-        "modalType": "english", 
+        "modalType": "english",
         "svgUrl": "/img/symbol-defs.svg#icon-googletranslate",
         "iconTitle": "English",
         "color": "#4B8BF5",
-        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #4B8BF5\"}"
+        "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #4B8BF5\"}",
+        "contentComponent": "Eng"
     }
 ]

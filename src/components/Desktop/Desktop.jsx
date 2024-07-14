@@ -4,45 +4,50 @@ import Icon from '../Icon/Icon';
 import s from './Desktop.module.css';
 import icons from '../../assets/icons.json';
 import { applyLinkScript } from '../linkScript';
-//------------------------------------------
-import Lections from  '../Content/Lections'
-import HTMLContent from '../Content/Html';
-import CSSContent from '../Content/Css';
-import JavaScript from '../Content/JavaScript';
-import ReactLinks from '../Content/ReactLinks';
-import NodeLinks from '../Content/NodeLinks';
-import Libraries from '../Content/Libraries';
-import YouTube from '../Content/YouTube';
-import VSCode from '../Content/VSCode';
-import ImageEditors from '../Content/ImageEditors';
-import WebDesign from '../Content/WebDesign';
-import HelpfulStuff from '../Content/HelpfulStuff';
-import Repository from '../Content/Repository';
-import Git from '../Content/Git';
-import Job from '../Content/Job';
-import Organizer from '../Content/Organizer';
-import Eng from '../Content/Eng';
 
-
+const components = {
+  Lections: React.lazy(() => import('../Content/Lections')),
+  HTMLContent: React.lazy(() => import('../Content/Html')),
+  CSSContent: React.lazy(() => import('../Content/Css')),
+  JavaScript: React.lazy(() => import('../Content/JavaScript')),
+  ReactLinks: React.lazy(() => import('../Content/ReactLinks')),
+  NodeLinks: React.lazy(() => import('../Content/NodeLinks')),
+  Libraries: React.lazy(() => import('../Content/Libraries')),
+  YouTube: React.lazy(() => import('../Content/YouTube')),
+  VSCode: React.lazy(() => import('../Content/VSCode')),
+  ImageEditors: React.lazy(() => import('../Content/ImageEditors')),
+  WebDesign: React.lazy(() => import('../Content/WebDesign')),
+  HelpfulStuff: React.lazy(() => import('../Content/HelpfulStuff')),
+  Repository: React.lazy(() => import('../Content/Repository')),
+  Git: React.lazy(() => import('../Content/Git')),
+  Job: React.lazy(() => import('../Content/Job')),
+  Organizer: React.lazy(() => import('../Content/Organizer')),
+  Eng: React.lazy(() => import('../Content/Eng'))
+};
 
 const Desktop = () => {
   const [openModal, setOpenModal] = useState(null);
 
-  const handleOpenModal = (modalType) => { //modal window opener
+  const handleOpenModal = (modalType) => {
     setOpenModal(modalType);
   };
 
-  const handleCloseModal = () => { //modal window closer
+  const handleCloseModal = () => {
     setOpenModal(null);
+     window.history.pushState('', document.title, window.location.pathname);
   };
 
   useEffect(() => {
-    applyLinkScript(); // Применяем скрипт при загрузке компонента или изменении DOM
+    applyLinkScript();
   }, []);
-// ==================================Icons render========================================
+
   return (
     <div className={s.container}>
-        {icons.map((icon) => (
+      {icons.map((icon) => {
+        const ContentComponent = components[icon.contentComponent];
+        const customStyles = icon.modalStyles || {};
+
+        return (
           <li key={icon.id}>
             <Icon
               modalType={icon.modalType}
@@ -52,94 +57,16 @@ const Desktop = () => {
               color={icon.color}
               bg={icon.bg}
             />
+            {openModal === icon.modalType && (
+              <Modal title={icon.iconTitle} close={handleCloseModal} customStyles={customStyles}>
+                <React.Suspense fallback={<div>Loading...</div>}>
+                  <ContentComponent />
+                </React.Suspense>
+              </Modal>
+            )}
           </li>
-        ))}
-{/* ============================Modal windows=============================== */}
-      {openModal === 'lections' && (
-        <Modal title="Lections" close={handleCloseModal}>
-          <Lections />
-        </Modal>
-      )}
-      {openModal === 'html' && (
-        <Modal title="HTML" close={handleCloseModal}>
-          <HTMLContent />
-        </Modal>
-      )}
-      {openModal === 'css' && (
-        <Modal title="CSS" close={handleCloseModal}>
-          <CSSContent />
-        </Modal>
-      )}
-      {openModal === 'js' && (
-        <Modal title="JavaScript" close={handleCloseModal}>
-          <JavaScript />
-        </Modal>
-      )}
-      {openModal === 'react' && (
-        <Modal title="React.JS" close={handleCloseModal}>
-          <ReactLinks />
-        </Modal>
-      )}
-      {openModal === 'node' && (
-        <Modal title="Node.JS" close={handleCloseModal} layout={s.modal_terminal_outside}>
-          <NodeLinks />
-        </Modal>
-      )}
-      {openModal === 'libraries' && (
-        <Modal title="LIBRARIES & API" close={handleCloseModal}>
-          <Libraries/>
-        </Modal>
-      )}
-      {openModal === 'youtube' && (
-        <Modal title="YouTube for Developers" close={handleCloseModal}>
-          <YouTube />
-        </Modal>
-      )}
-      {openModal === 'vscode' && (
-        <Modal title="VS Code Plugins" close={handleCloseModal}>
-          <VSCode />
-        </Modal>
-      )}
-      {openModal === 'img' && (
-        <Modal title="IMAGE EDITORS" close={handleCloseModal}>
-          <ImageEditors />
-        </Modal>
-      )}
-      {openModal === 'design' && (
-        <Modal title="WEB DESIGN" close={handleCloseModal}>
-          <WebDesign />
-        </Modal>
-      )}
-      {openModal === 'helpful' && (
-        <Modal title="HELPFUL STUFF" close={handleCloseModal}>
-          <HelpfulStuff />
-        </Modal>
-      )}
-      {openModal === 'repository' && (
-        <Modal title="REPOSITORY SETUP" close={handleCloseModal}>
-          <Repository />
-        </Modal>
-      )}
-      {openModal === 'git' && (
-        <Modal title="GIT TIPS & TRICKS" close={handleCloseModal}>
-          <Git />
-        </Modal>
-      )}
-      {openModal === 'job' && (
-        <Modal title="Job Searching Resources" close={handleCloseModal}>
-          <Job />
-        </Modal>
-      )}
-      {openModal === 'organizer' && (
-        <Modal title="WORK ORGANIZERS" close={handleCloseModal}>
-          <Organizer />
-        </Modal>
-      )}
-      {openModal === 'english' && (
-        <Modal title="ENGLISH LEARNING TOOLS" close={handleCloseModal}>
-          <Eng />
-        </Modal>
-      )}
+        );
+      })}
     </div>
   );
 };
