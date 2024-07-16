@@ -56,11 +56,17 @@ const Libraries = () => {
 
       <ul className="command-list">
        <li className="command">
+  <span>npm create vite@latest</span>
+  <button onClick={() => copyToClipboard('npm create vite@latest')}>
+    <GrCopy />
+  </button>
+        </li>
+       <li className="command">
   <span>npm install</span>
   <button onClick={() => copyToClipboard('npm install')}>
     <GrCopy />
   </button>
-</li>
+        </li>
 <li className="command">
   <span>npm run dev</span>
   <button onClick={() => copyToClipboard('npm run dev')}>
