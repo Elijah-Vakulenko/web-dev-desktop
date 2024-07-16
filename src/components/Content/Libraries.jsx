@@ -127,6 +127,12 @@ const Libraries = () => {
     <GrCopy />
   </button>
 </li>
+<li className="command">
+  <span>npm install Yup</span>
+  <button onClick={() => copyToClipboard('npm install yup')}>
+    <GrCopy />
+  </button>
+</li>
       </ul>
     </div>
   );
