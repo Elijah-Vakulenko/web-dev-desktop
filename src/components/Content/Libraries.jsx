@@ -49,6 +49,15 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://github.com/ai/nanoid/blob/bacb11b58ec098b5192e1eb927d3581872c86921/README.md">NanoID</a>
           </li>
+          <li>
+            <a className="link-with-favicon" href="https://react-hot-toast.com/docs">React Hot Toast</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://github.com/reactjs/react-modal?tab=readme-ov-file#examples">React Modal</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://github.com/mhnpd/react-loader-spinner">react-spinner-loader</a>
+          </li>
         </ul>
       </div>
 
@@ -136,6 +145,24 @@ const Libraries = () => {
 <li className="command">
   <span>npm install Yup</span>
   <button onClick={() => copyToClipboard('npm install yup')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm install react-hot-toast</span>
+  <button onClick={() => copyToClipboard('npm install react-hot-toast')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm install --save react-modal</span>
+  <button onClick={() => copyToClipboard('npm install --save react-modal')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm install react-loader-spinner --save</span>
+  <button onClick={() => copyToClipboard('npm install react-loader-spinner --save')}>
     <GrCopy />
   </button>
 </li>
