@@ -283,6 +283,7 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=CIgqmS5pwNQ">Модуль 3. Заняття 2. Formik, Контейнер форми, відправка форми, валідація Yup, ErrorMessage (11.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_03_l2_Formik/src/components">Модуль 3. Заняття 2. Форми (11.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=8AA-psZ2b-k">Практика Blended 7+8 Модуль 3. Форми. Владислав Роженко (14.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=WrIbDNdqjW8">Модуль 4. HTTP-запити. Хуки (16.07.2024)</a></li>
 </ul>
 
 
