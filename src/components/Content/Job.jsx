@@ -22,6 +22,9 @@ const Job = () => {
     <li>
       <a className="link-with-favicon" target="_blank" href="https://github.com/viraptor/reverse-interview/blob/master/translations/UKRAINIAN.md">Зворотнє інтерв'ю</a>
     </li>
+    <li>
+      <a className="link-with-favicon" target="_blank" href="https://drive.google.com/file/d/14riwGdDXpFHAeNlb5_yDWpOjnex6N5Ad/view">Де шукати IT вакансії</a>
+    </li>
   </ul>
 </div>
 
