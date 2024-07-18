@@ -58,6 +58,12 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://github.com/mhnpd/react-loader-spinner">react-spinner-loader</a>
           </li>
+          <li>
+            <a className="link-with-favicon" href="https://redux-toolkit.js.org/">Redux Toolkit</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://react-redux.js.org/">React Redux</a>
+          </li>
         </ul>
       </div>
 
@@ -163,6 +169,18 @@ const Libraries = () => {
 <li className="command">
   <span>npm install react-loader-spinner --save</span>
   <button onClick={() => copyToClipboard('npm install react-loader-spinner --save')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm install react-redux</span>
+  <button onClick={() => copyToClipboard('npm install react-redux')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm install @reduxjs/toolkit</span>
+  <button onClick={() => copyToClipboard('npm install @reduxjs/toolkit')}>
     <GrCopy />
   </button>
 </li>
