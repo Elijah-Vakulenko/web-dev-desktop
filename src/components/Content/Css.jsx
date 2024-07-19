@@ -39,6 +39,9 @@ const Css = () => {
             <li>
                 <a className="link-with-favicon" href="https://css-grid-generator.netlify.app/">Grid Generator</a>
             </li>
+            <li>
+                <a className="link-with-favicon" href="https://unused-css.com/">Unused CSS (CSS code optimizer)r</a>
+            </li>
         </ul>
     )
 };

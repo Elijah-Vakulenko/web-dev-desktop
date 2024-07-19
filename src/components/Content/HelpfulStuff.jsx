@@ -12,6 +12,7 @@ const HelpfulStuff = () => {
         <li><a className="link-with-favicon" href="https://www.w3schools.com/">W3 Schools (Coding Encyclopedia)</a></li>
         <li><a className="link-with-favicon" href="https://itwiki.dev/front-end">Довідник з Front-end</a></li>
         <li><a className="link-with-favicon" href="https://dev.to/">Community for developers</a></li>
+        <li><a className="link-with-favicon" href="https://responsively.app/download">Responsively App (Browser with Multiple Devices' Screen)</a></li>
       </ul>
     </div>
   )

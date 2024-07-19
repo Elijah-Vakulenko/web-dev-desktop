@@ -40,6 +40,12 @@ const ImageEditors = () => {
         <li>
           <a className="link-with-favicon" href="https://icon-icons.com/ru/">Icon-Icons</a>
         </li>
+        <li>
+          <a className="link-with-favicon" href="https://www.shapedivider.app/">Custom Shape Dividers</a>
+        </li>
+        <li>
+          <a className="link-with-favicon" href="https://shapedividers.com/">SVG Shape Dividers Creator</a>
+        </li>
       </ul>
     </div>
   )
