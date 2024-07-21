@@ -36,6 +36,9 @@ const JavaScript = () => {
   <li>
     <a className="link-with-favicon" href="https://itvdn.com/ua/skills/practicums/javascript-advanced">практикум (Advanced) JavaScript Essential (itvdn.com)</a>
   </li>
+  <li>
+    <a className="link-with-favicon" href="https://docs.google.com/spreadsheets/d/1X79TW0HW4S1dSe6fj5LEm-nZmM75dGQYdA5EOi1c5rw/edit?gid=0#gid=0">Задачі по JS</a>
+  </li>
 </ul>
 
   )
