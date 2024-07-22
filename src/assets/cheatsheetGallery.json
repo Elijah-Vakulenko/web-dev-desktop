@@ -1,67 +1,67 @@
 [
     {
         "id":1,
-"url": "public/img/cheatsheets/html/01.jpg"
+"url": "/public/img/cheatsheets/html/01.jpg"
 },
     {
         "id":12,
-"url": "public/img/cheatsheets/html/02.jpg"
+"url": "/public/img/cheatsheets/html/02.jpg"
 },
     {
         "id":2,
-"url": "public/img/cheatsheets/css/001.jpg"
+"url": "/public/img/cheatsheets/css/001.jpg"
 },
     {
         "id":3,
-"url": "public/img/cheatsheets/css/002.jpg"
+"url": "/public/img/cheatsheets/css/002.jpg"
 },
     {
         "id":4,
-"url": "public/img/cheatsheets/css/003.jpg"
+"url": "/public/img/cheatsheets/css/003.jpg"
 },
     {
         "id":5,
-"url": "public/img/cheatsheets/css/004.jpg"
+"url": "/public/img/cheatsheets/css/004.jpg"
 },
     {
         "id":6,
-"url": "public/img/cheatsheets/css/005.jpg"
+"url": "/public/img/cheatsheets/css/005.jpg"
 },
     {
         "id":16,
-"url": "public/img/cheatsheets/css/006.jpg"
+"url": "/public/img/cheatsheets/css/006.jpg"
 },
     {
         "id":17,
-"url": "public/img/cheatsheets/css/007.jpg"
+"url": "/public/img/cheatsheets/css/007.jpg"
 },
     {
         "id":18,
-"url": "public/img/cheatsheets/css/008.jpg"
+"url": "/public/img/cheatsheets/css/008.jpg"
 },
     {
         "id":19,
-"url": "public/img/cheatsheets/css/009.jpg"
+"url": "/public/img/cheatsheets/css/009.jpg"
 },
     {
         "id":7,
-"url": "public/img/cheatsheets/js/1.jpg"
+"url": "/public/img/cheatsheets/js/1.jpg"
 },
     {
         "id":8,
-"url": "public/img/cheatsheets/js/2.jpg"
+"url": "/public/img/cheatsheets/js/2.jpg"
 },
     {
         "id":9,
-"url": "public/img/cheatsheets/js/3.jpg"
+"url": "/public/img/cheatsheets/js/3.jpg"
 },
     {
         "id":10,
-"url": "public/img/cheatsheets/js/4.jpg"
+"url": "/public/img/cheatsheets/js/4.jpg"
 },
     {
         "id":11,
-"url": "public/img/cheatsheets/js/5.jpg"
+"url": "/public/img/cheatsheets/js/5.jpg"
 }
 
 ]
