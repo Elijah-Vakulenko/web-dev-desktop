@@ -139,5 +139,22 @@
         "color": "#4B8BF5",
         "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"white\", \"borderRadius\": \"8%\", \"border\" : \"1px solid #4B8BF5\"}",
         "contentComponent": "Eng"
-    }
+    },
+    {
+        "id": 18,
+        "modalType": "cheatsheet",
+"svgUrl": "/img/symbol-defs.svg#icon-windows8",
+        "iconTitle": "Cheatsheet Gallery",
+        "color": "#A4DEAB",
+        "contentComponent": "CheatsheetGallery"
+    },
+    {
+        "id": 19,
+        "modalType": "update",
+"svgUrl": "/img/symbol-defs.svg#icon-embed2",
+        "iconTitle": "Desktop Updates",
+        "color": "#F5F0D2",
+         "bg": "{\"padding\": \"2px\", \"backgroundColor\": \"black\", \"borderRadius\": \"8%\", \"border\" : \"2px solid #fff\"}",
+        "contentComponent": "Upd"
+}
 ]

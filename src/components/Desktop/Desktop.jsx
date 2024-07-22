@@ -22,7 +22,9 @@ const components = {
   Git: React.lazy(() => import('../Content/Git')),
   Job: React.lazy(() => import('../Content/Job')),
   Organizer: React.lazy(() => import('../Content/Organizer')),
-  Eng: React.lazy(() => import('../Content/Eng'))
+  Eng: React.lazy(() => import('../Content/Eng')),
+  CheatsheetGallery: React.lazy(() => import('../Content/CheatsheetGallery')),
+  Upd: React.lazy(() => import('../Content/Upd'))
 };
 
 const Desktop = () => {
