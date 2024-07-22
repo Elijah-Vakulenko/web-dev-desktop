@@ -41,7 +41,6 @@ const CheatsheetGallery = () => {
     setSelectedImageIndex((prevIndex) => (prevIndex - 1 + images.length) % images.length);
   };
 
-  // Add keyboard navigation
   useEffect(() => {
     const handleKeyDown = (e) => {
       if (!isModalOpen) return;
