@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-"url": "/img/cheatsheets/html/01.jpg"
+"url": "public/img/cheatsheets/html/01.jpg"
 },
     {
         "id":12,
@@ -28,19 +28,19 @@
 "url": "public/img/cheatsheets/css/005.jpg"
 },
     {
-        "id":6,
+        "id":16,
 "url": "public/img/cheatsheets/css/006.jpg"
 },
     {
-        "id":6,
+        "id":17,
 "url": "public/img/cheatsheets/css/007.jpg"
 },
     {
-        "id":6,
+        "id":18,
 "url": "public/img/cheatsheets/css/008.jpg"
 },
     {
-        "id":6,
+        "id":19,
 "url": "public/img/cheatsheets/css/009.jpg"
 },
     {
