@@ -327,25 +327,30 @@ li kbd {
   cursor: pointer;
   z-index: 1001;
 }
-
 .hello {
   background-color: black;
   border: 1px solid gray;
   color: #089b08;
-
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 20px;
+  opacity: 1;
+  transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
+  visibility: visible;
 }
 
 .greetings {
   font-family: "terminal";
   font-size: 36px;
-  text-shadow: 0 0 5px rgba(8, 155, 8, 0.6),
-    /* Легкое зеленое свечение */ 0 0 10px rgba(8, 155, 8, 0.4),
-    /* Более выраженное свечение */ 0 0 15px rgba(8, 155, 8, 0.2); /* Сильное свечение */
+  text-shadow: 0 0 5px rgba(8, 155, 8, 0.6), 0 0 10px rgba(8, 155, 8, 0.4),
+    0 0 15px rgba(8, 155, 8, 0.2);
+}
+
+.hello.fade-out {
+  opacity: 0;
+  visibility: hidden;
 }
 
 .updList {
