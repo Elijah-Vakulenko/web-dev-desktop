@@ -4,6 +4,7 @@ import Icon from '../Icon/Icon';
 import s from './Desktop.module.css';
 import icons from '../../assets/icons.json';
 import { applyLinkScript } from '../linkScript';
+import Hello from '../Modal/Hello';
 
 const components = {
   Lections: React.lazy(() => import('../Content/Lections')),
@@ -67,8 +68,10 @@ const Desktop = () => {
               </Modal>
             )}
           </li>
+          
         );
       })}
+      <Hello/>
     </div>
   );
 };

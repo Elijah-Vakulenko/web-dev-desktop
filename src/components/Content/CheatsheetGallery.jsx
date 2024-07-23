@@ -81,14 +81,14 @@ const CheatsheetGallery = () => {
       >
         {selectedImageIndex !== null && (
           <div className="modal-content">
-            <button className="prev-button" onClick={handlePrev}>Previous</button>
+            <button className="prev-button" onClick={handlePrev}>←</button>
             <img 
               src={images[selectedImageIndex].url} 
               alt={`Image ${images[selectedImageIndex].id}`}
               style={{ maxWidth: "90vw", maxHeight: "90vh" }}
             />
-            <button className="next-button" onClick={handleNext}>Next</button>
-            <button className="close-button" onClick={closeModal}>Close</button>
+            <button className="next-button" onClick={handleNext}>→</button>
+            <button className="close-button" onClick={closeModal}>X</button>
           </div>
         )}
       </Modal>
