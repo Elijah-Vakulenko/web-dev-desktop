@@ -287,7 +287,7 @@ return (
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_04_l1_HTTP/src/components">Модуль 4. HTTP-запити. Хуки (16.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LK6f-Um7diM">Модуль 4. Заняття 2. HTTP-запити. Хуки (18.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_04_l2/src/components">Модуль 4. HTTP-запити. Хуки (18.07.2024)</a></li>
-  <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=WrIbDNdqjW8">Модуль 4.  Заняття 1. HTTP-запити. Хуки (16.07.2024)</a></li>
+  <li><a className="link-with-favicon" hre="https://youtu.be/tNFl6vqtsWc?si=IjQPYYyhOXfvnKWb">Модуль 5. Заняття 1. React Router (23.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l1_Routing/src/components">Модуль 5. Заняття 1. React Router (23.07.2024)</a></li>
 </ul>
 
