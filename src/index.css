@@ -327,10 +327,13 @@ li kbd {
   cursor: pointer;
   z-index: 1001;
 }
+
 .hello {
   background-color: black;
   border: 1px solid gray;
+  width: 300px;
   color: #089b08;
+  overflow: hidden;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -339,13 +342,24 @@ li kbd {
   opacity: 1;
   transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
   visibility: visible;
+
+  @media screen and (min-width: 768px) {
+    width: 640px;
+  }
 }
 
 .greetings {
+  text-align: center;
+  width: 260px;
   font-family: "terminal";
-  font-size: 36px;
+  font-size: 26px;
   text-shadow: 0 0 5px rgba(8, 155, 8, 0.6), 0 0 10px rgba(8, 155, 8, 0.4),
     0 0 15px rgba(8, 155, 8, 0.2);
+
+  @media screen and (min-width: 768px) {
+    font-size: 36px;
+    width: 600px;
+  }
 }
 
 .hello.fade-out {
