@@ -204,11 +204,11 @@ return (
               <h2 id="js-pashchenko">JavaScript від Володимира Пашченко </h2>
  
         <ul className="list">
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 1.</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 1. Перетворювання типів: числа</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 2.</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=O8yn9qSOobE&ab_channel=GoIT">Модуль-2-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4bHqcYlxg2E&t=1s&ab_channel=GoIT">Модуль-2-2</a></li>
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=FZuKt9BVtB8&ab_channel=GoIT">Модуль-3-1</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=FZuKt9BVtB8&ab_channel=GoIT">Модуль 2. Заняття 1. Масиви і функції</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=DMwfPGNVuv8&ab_channel=GoIT">Модуль-3-2</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ygTewieQm8w&ab_channel=GoIT">Модуль-4-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=sVMNyk6aY1k&ab_channel=GoIT">Модуль-4-2</a></li>
@@ -289,6 +289,8 @@ return (
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_04_l2/src/components">Модуль 4. HTTP-запити. Хуки (18.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tNFl6vqtsWc">Модуль 5. Заняття 1. React Router (23.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l1_Routing/src/components">Модуль 5. Заняття 1. React Router (23.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=fXQwu1ySq8Y">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l2_Routing/src/components">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
 </ul>
 
 

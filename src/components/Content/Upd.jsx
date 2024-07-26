@@ -6,7 +6,8 @@ const upd = () => {
         
       <fieldset>
         <legend>July 2024</legend>
-          <ul className='updList'>
+        <ul className='updList'>
+           <li>26.07.2024 - Added links for new React lesson youtube + github <kbd>Модуль 5. Заняття 2. React Router</kbd></li>
             <li>24.07.2024 - Added links for new React lesson youtube + github <kbd>Модуль 5. Заняття 1. React Router</kbd></li>
             <li>23.07.2024 - Milord Animation Greetings added</li>
                 <li>22.07.2024 - New folder created <kbd>Desktop Updates</kbd></li>
