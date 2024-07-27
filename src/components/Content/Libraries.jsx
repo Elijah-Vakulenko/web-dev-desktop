@@ -64,6 +64,22 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://react-redux.js.org/">React Redux</a>
           </li>
+          <li>
+            <a className="link-with-favicon" href="https://animejs.com/">Amime.js</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://gsap.com/">GSAP (JS animation library)</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="http://velocityjs.org/">Velocity.js (JS animation library)</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://www.react-spring.dev/">React-spring (animation library for React)</a>
+          </li>
+          <li>
+            <a className="link-with-favicon" href="https://mojs.github.io/">Mo.js (animation library)</a>
+          </li>
+    
         </ul>
       </div>
 
@@ -181,6 +197,12 @@ const Libraries = () => {
 <li className="command">
   <span>npm install @reduxjs/toolkit</span>
   <button onClick={() => copyToClipboard('npm install @reduxjs/toolkit')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm i @react-spring/web</span>
+  <button onClick={() => copyToClipboard('npm i @react-spring/web')}>
     <GrCopy />
   </button>
 </li>

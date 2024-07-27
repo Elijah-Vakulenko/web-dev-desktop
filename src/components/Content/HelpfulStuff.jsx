@@ -13,6 +13,9 @@ const HelpfulStuff = () => {
         <li><a className="link-with-favicon" href="https://itwiki.dev/front-end">Довідник з Front-end</a></li>
         <li><a className="link-with-favicon" href="https://dev.to/">Community for developers</a></li>
         <li><a className="link-with-favicon" href="https://responsively.app/download">Responsively App (Browser with Multiple Devices' Screen)</a></li>
+        <li><a className="link-with-favicon" href="https://daily.dev/">daily.dev - Community for web developers</a></li>
+        <li><a className="link-with-favicon" href="https://www.frontendmentor.io/">Frontend Mentor (for practice)</a></li>
+        <li><a className="link-with-favicon" href="https://devchallenges.io/">DevChallenges (for practice)</a></li>
       </ul>
     </div>
   )

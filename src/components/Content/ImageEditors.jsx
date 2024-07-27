@@ -46,6 +46,9 @@ const ImageEditors = () => {
         <li>
           <a className="link-with-favicon" href="https://shapedividers.com/">SVG Shape Dividers Creator</a>
         </li>
+        <li>
+          <a className="link-with-favicon" href="https://pixlr.com/editor/">Pixlr Editor</a>
+        </li>
       </ul>
     </div>
   )
