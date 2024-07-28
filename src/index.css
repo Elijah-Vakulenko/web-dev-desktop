@@ -372,3 +372,13 @@ li kbd {
   flex-direction: column;
   gap: 10px;
 }
+
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  background: linear-gradient(#a4deab, #a4deab);
+}

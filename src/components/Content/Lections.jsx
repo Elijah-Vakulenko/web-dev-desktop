@@ -13,7 +13,9 @@ return (
                 <li><a href="#js-pashchenko">JavaScript Пашченко</a></li>
                 <li><a href="#react-drynkin">React Дринкін</a></li>
                 <li><a href="#react-repeta">React Репета</a></li>
-                <li><a href="#project-guides">Робота з репозиторієм</a></li>
+        <li><a href="#project-guides">Робота з репозиторієм</a></li>
+        <li><a href="#audition">Технічна співбесіда</a></li>
+        <li><a href="#jscrack">Cracking JS Interview</a></li>
       </ul>
     </div>
           
@@ -298,7 +300,32 @@ return (
   id="project-guides">Проектування та робота з репозиторієм</h2>
   <ul className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/playlist?list=PLViULGko0FdhZ99yYnqB64F_4nVyvOPH5">Як працювати з репозиторієм на проєкті</a></li>
-  </ul>
+      </ul>
+      
+      <h2 id="audition">Матеріали для техеічної співбесіди</h2>
+      <ul>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/playlist?list=PLViULGko0Fdg2gkeCXs_K_wI4KO33JInA">HTML/CSS. Курс з підготовки до технічної співбесіди Анатолія Парубця</a></li>
+        <li> <a className="link-with-favicon" href="https://www.youtube.com/playlist?list=PLViULGko0FdhGyy4UqM3sN5nBHQdDmeeV">
+          JavaScript. Курс з підготовки до технічної співбесіди Анатолія Парубця</a></li>
+        <li> <a className="link-with-favicon" href="https://docs.google.com/spreadsheets/d/1TIhK90AOnLjf2BCy2AxeOlFGdDf2rGFrxtkq7Ps9O2I/edit?gid=1616696609#gid=1616696609">
+          Список питань - підготовка до технічної співбесіди</a></li>
+      </ul>
+
+      <h2 id='jscrack'>Cracking Js interview</h2>
+      <h3>Блок 1</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=IH6VqpTZROk" className="link-with-favicon">Про курс</a></li>
+        <li><a href="https://www.youtube.com/watch?v=wEDhkEDDVQA" className="link-with-favicon">Що потрібно для працевлаштування</a></li>
+        <li><a href="https://www.youtube.com/watch?v=7vv6lTky7_g" className="link-with-favicon">Сфери застосування JS</a></li>
+        <li><a href="https://www.youtube.com/watch?v=b0QhRxbv5lY" className="link-with-favicon">Особливості JS як мови програмування</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" className="link-with-favicon">Як рендериться веб сторінка</a></li>
+      </ul>
+      <h3>Блок</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
 </div>
   </>
       );
