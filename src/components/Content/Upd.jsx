@@ -7,7 +7,9 @@ const upd = () => {
       <fieldset>
         <legend>July 2024</legend>
         <ul className='updList'>
-          <li>28.07.2024 - added 2 playlists to Lections <kbd>Матеріали для техеічної співбесіди</kbd> and first block of <kbd>Cracking Js interview</kbd> <br /> -changed the scrollbar layout</li>
+          <li>28.07.2024 - added 2 playlists to GoIt Lections <kbd>Матеріали для техеічної співбесіди</kbd> and first block of <kbd>Cracking Js interview</kbd> + <kbd>Старі уроки</kbd><br />
+            -changed the scrollbar layout <br />
+          -added link to GoIt Lections <kbd>Практика Blended 7+8 Модуль 5. React Router. Владислав Роженко  (28.07.2024)</kbd></li> 
           <li>27.07.2024 - added link to Image Editors - <kbd>Pixlr Editor</kbd><br />
             -added link to Libraries/API - <kbd>Anime.js</kbd>
           <br />

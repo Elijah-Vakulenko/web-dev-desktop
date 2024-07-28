@@ -293,6 +293,7 @@ return (
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l1_Routing/src/components">Модуль 5. Заняття 1. React Router (23.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=fXQwu1ySq8Y">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l2_Routing/src/components">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tsdE9Bl1_gI">Практика Blended 7+8 Модуль 5. React Router. Владислав Роженко  (28.07.2024)</a></li>
 </ul>
 
 
@@ -320,12 +321,64 @@ return (
         <li><a href="https://www.youtube.com/watch?v=b0QhRxbv5lY" className="link-with-favicon">Особливості JS як мови програмування</a></li>
         <li><a href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" className="link-with-favicon">Як рендериться веб сторінка</a></li>
       </ul>
-      <h3>Блок</h3>
+      <h3>Блок 2</h3>
       <ul>
         <li><a href="" className="link-with-favicon"></a></li>
         <li><a href="" className="link-with-favicon"></a></li>
         <li><a href="" className="link-with-favicon"></a></li>
       </ul>
+      <h3>Блок 3</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Блок 4</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Блок 5</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Блок 6</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Блок 7</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Блок 8</h3>
+      <ul>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="" className="link-with-favicon"></a></li>
+      </ul>
+      <h3>Старі уроки</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=lR2_SEEIq-M" className="link-with-favicon">Cracking js lesson 2</a></li>
+        <li><a href="https://www.youtube.com/watch?v=WzXZjD4Zlf0" className="link-with-favicon">lesson 2 3</a></li>
+        <li><a href="https://www.youtube.com/watch?v=tr-WO9Mz0jQ" className="link-with-favicon">lesson 4</a></li>
+        <li><a href="https://www.youtube.com/watch?v=MoGnqVOMZzA" className="link-with-favicon">lesson 4 5</a></li>
+        <li><a href="https://www.youtube.com/watch?v=sX6bCH1N1vY" className="link-with-favicon">Lesson 5</a></li>
+        <li><a href="https://www.youtube.com/watch?v=RswvB0IUpCY" className="link-with-favicon">lesson 6 5</a></li>
+        <li><a href="https://www.youtube.com/watch?v=n8JB0g8PvJI" className="link-with-favicon">lesson 7</a></li>
+        <li><a href="https://www.youtube.com/watch?v=BkzQsptmeXY" className="link-with-favicon">Cracking JS interview. part 2. Testing</a></li>
+        <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Cracking js interview. Lesson 8. Повторение</a></li>
+
+      </ul>
+     
+
+
 </div>
   </>
       );
