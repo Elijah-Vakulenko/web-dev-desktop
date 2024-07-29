@@ -323,15 +323,21 @@ return (
       </ul>
       <h3>Блок 2</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=x-5c05RAWQE" className="link-with-favicon">Прості типи даних</a></li>
+        <li><a href="https://www.youtube.com/watch?v=j4IlhdLmEoU" className="link-with-favicon">Типи даних в JS. Обʼєкти</a></li>
+        <li><a href="https://www.youtube.com/watch?v=MLRq-tLnHDg" className="link-with-favicon">Типи колекцій Set, Map</a></li>
+        <li><a href="https://www.youtube.com/watch?v=HyaT8j2Gv-0" className="link-with-favicon">Псевдомасиви</a></li>
+        <li><a href="https://www.youtube.com/watch?v=-aTyCCBkjM0" className="link-with-favicon">Hoisting</a></li>
+        <li><a href="https://www.youtube.com/watch?v=gL1f5iZTmcM" className="link-with-favicon">Суворе, не суворе порівняння</a></li>
+        <li><a href="https://www.youtube.com/watch?v=5-P1eVQbMmA" className="link-with-favicon">Конвертація типів</a></li>
+        <li><a href="https://www.youtube.com/watch?v=kuRt7mG0xxs" className="link-with-favicon">Логічні оператори, опціональний ланцюжок</a></li>
       </ul>
       <h3>Блок 3</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=CD0S7-DPiIc&t=5s" className="link-with-favicon">Функції</a></li>
+        <li><a href="https://www.youtube.com/watch?v=4b3MGQag4zA" className="link-with-favicon">Замикання, лексичне оточення функції, scope</a></li>
+        <li><a href="https://www.youtube.com/watch?v=omkf18nFSzc" className="link-with-favicon">This, контекст виконання функції, call, apply, bind</a></li>
+        <li><a href="https://www.youtube.com/watch?v=td310h_VqYM" className="link-with-favicon">Композиція функцій, карування, декорація</a></li>
       </ul>
       <h3>Блок 4</h3>
       <ul>
