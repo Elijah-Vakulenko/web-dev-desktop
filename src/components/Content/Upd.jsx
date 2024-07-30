@@ -7,6 +7,8 @@ const upd = () => {
       <fieldset>
         <legend>July 2024</legend>
         <ul className='updList'>
+          <li>30.07.2024 - added link <kbd>Модуль 6, заняття 1. Redux та Redux Toolkit</kbd> to GoIt Lections <br />
+          -added links of <kbd>Cracking Js interview</kbd> blocks 4 and 5 </li>
           <li>29.07.2024 - added links of block 2 and 3 to GoIt Lections <kbd>Cracking Js interview</kbd></li>
           <li>28.07.2024 - added 2 playlists to GoIt Lections <kbd>Матеріали для техеічної співбесіди</kbd> and first block of <kbd>Cracking Js interview</kbd> + <kbd>Старі уроки</kbd><br />
             -changed the scrollbar layout <br />

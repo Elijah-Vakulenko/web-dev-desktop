@@ -294,6 +294,8 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=fXQwu1ySq8Y">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_05_l2_Routing/src/components">Модуль 5. Заняття 2. React Router (25.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tsdE9Bl1_gI">Практика Blended 7+8 Модуль 5. React Router. Владислав Роженко  (28.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=yKV1VKaL9FI">Модуль 6, заняття 1. Redux та Redux Toolkit  (30.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l1_Redux/src/components">Модуль 6, заняття 1. Redux та Redux Toolkit  (30.07.2024)</a></li>
 </ul>
 
 
@@ -341,15 +343,20 @@ return (
       </ul>
       <h3>Блок 4</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=NUdPY_Vjer0" className="link-with-favicon">Методи масивів - методи мутуючі, методи перебору, методи пошуку</a></li>
+        <li><a href="https://www.youtube.com/watch?v=rtRMVtdFW9Q" className="link-with-favicon">Методи масивів - методи cортування та інші</a></li>
+        <li><a href="https://www.youtube.com/watch?v=AEppNZzz-BE" className="link-with-favicon">Методи обʼєктів - методи перебору, створення, роботи з прототипом</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dk3bX6-GIwM" className="link-with-favicon">Методи захисту обʼєктів</a></li>
       </ul>
       <h3>Блок 5</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=rVNOgKCozZg" className="link-with-favicon">Event loop вступ, setTimeout</a></li>
+        <li><a href="https://www.youtube.com/watch?v=SZcEQR4jy8w" className="link-with-favicon">Event loop пояснення</a></li>
+        <li><a href="https://www.youtube.com/watch?v=V8WXintgPnE" className="link-with-favicon">SetTimeout асинхронний цикл</a></li>
+        <li><a href="https://www.youtube.com/watch?v=MDolHsKRJEM" className="link-with-favicon">Promise вступ</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ADN0HmQnCUk" className="link-with-favicon">Promise.all, Promise.allSettled</a></li>
+        <li><a href="https://www.youtube.com/watch?v=c21vHqHEoH4" className="link-with-favicon">Promise.resolve, Promise.reject</a></li>
+        <li><a href="https://www.youtube.com/watch?v=zhAb1FtLhmQ" className="link-with-favicon">Promise.race, Promise.any, finallу</a></li>
       </ul>
       <h3>Блок 6</h3>
       <ul>
