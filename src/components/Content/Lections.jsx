@@ -360,20 +360,17 @@ return (
       </ul>
       <h3>Блок 6</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=RswvB0IUpCY" className="link-with-favicon">Урок 6</a></li>
+
       </ul>
       <h3>Блок 7</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=n8JB0g8PvJI" className="link-with-favicon">Урок 7</a></li>
       </ul>
       <h3>Блок 8</h3>
       <ul>
-        <li><a href="" className="link-with-favicon"></a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a href="https://www.youtube.com/watch?v=BkzQsptmeXY&t=2s" className="link-with-favicon">Тестування</a></li>
+        <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Повторення</a></li>
         <li><a href="" className="link-with-favicon"></a></li>
       </ul>
       <h3>Старі уроки</h3>
@@ -387,10 +384,13 @@ return (
         <li><a href="https://www.youtube.com/watch?v=n8JB0g8PvJI" className="link-with-favicon">lesson 7</a></li>
         <li><a href="https://www.youtube.com/watch?v=BkzQsptmeXY" className="link-with-favicon">Cracking JS interview. part 2. Testing</a></li>
         <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Cracking js interview. Lesson 8. Повторение</a></li>
-
       </ul>
-     
-
+     <h3>Додаткові матеріали</h3>
+<ul></ul>
+  <li><a href="https://www.youtube.com/watch?v=17Rxi0L0Spc" className="link-with-favicon">Soft skills для співбесіди</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" className="link-with-favicon">алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" className="link-with-favicon">ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
+</ul>
 
 </div>
   </>
