@@ -386,7 +386,7 @@ return (
         <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Cracking js interview. Lesson 8. Повторение</a></li>
       </ul>
      <h3>Додаткові матеріали</h3>
-<ul></ul>
+<ul>
   <li><a href="https://www.youtube.com/watch?v=17Rxi0L0Spc" className="link-with-favicon">Soft skills для співбесіди</a></li>
   <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" className="link-with-favicon">алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
   <li><a href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" className="link-with-favicon">ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
