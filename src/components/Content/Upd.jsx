@@ -3,12 +3,12 @@ import React from 'react'
 const upd = () => {
   return (
       <div>
-        <fildset>
+        <fieldset>
           <legend>August 2024</legend>
           <ul className="updList">
             <li>01.08.2024 -  Redux Persist link and command added to Libraries/API</li>
           </ul>
-        </fildset>
+        </fieldset>
       <fieldset>
         <legend>July 2024</legend>
         <ul className='updList'>
