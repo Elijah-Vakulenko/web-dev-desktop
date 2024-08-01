@@ -79,6 +79,9 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://mojs.github.io/">Mo.js (animation library)</a>
           </li>
+          <li>
+            <a className="link-with-favicon" href="https://www.npmjs.com/package/redux-persist">Redux Persist </a>
+          </li>
     
         </ul>
       </div>
@@ -203,6 +206,12 @@ const Libraries = () => {
 <li className="command">
   <span>npm i @react-spring/web</span>
   <button onClick={() => copyToClipboard('npm i @react-spring/web')}>
+    <GrCopy />
+  </button>
+</li>
+<li className="command">
+  <span>npm i redux-persist</span>
+  <button onClick={() => copyToClipboard('npm i redux-persist')}>
     <GrCopy />
   </button>
 </li>
