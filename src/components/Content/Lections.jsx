@@ -270,7 +270,7 @@ return (
 
 
   <h2 id="react-drynkin">React.js від Сергія Дринкіна</h2>
-< className="list">
+<ul className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PaJq3dF3R80">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_01_l1_Components/src/components">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rXIQLzrvMyQ&t">Модуль 1. Заняття 2. Компоненти (27.06.2024)</a></li>
