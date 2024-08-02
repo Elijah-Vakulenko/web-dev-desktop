@@ -270,7 +270,7 @@ return (
 
 
   <h2 id="react-drynkin">React.js від Сергія Дринкіна</h2>
-<ul className="list">
+< className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PaJq3dF3R80">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_01_l1_Components/src/components">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rXIQLzrvMyQ&t">Модуль 1. Заняття 2. Компоненти (27.06.2024)</a></li>
@@ -296,6 +296,8 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tsdE9Bl1_gI">Практика Blended 7+8 Модуль 5. React Router. Владислав Роженко  (28.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=yKV1VKaL9FI">Модуль 6, заняття 1. Redux та Redux Toolkit  (30.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l1_Redux/src/components">Модуль 6, заняття 1. Redux та Redux Toolkit  (30.07.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Fmc9yE2kPcY">Модуль 6, заняття 2. Redux та Redux Toolkit  (01.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l2_Redux_Toolkit/src/components">Модуль 6, заняття 2. Redux та Redux Toolkit  (01.08.2024)</a></li>
 </ul>
 
 

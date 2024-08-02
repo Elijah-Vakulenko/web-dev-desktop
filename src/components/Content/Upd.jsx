@@ -5,8 +5,9 @@ const upd = () => {
       <div>
         <fieldset>
           <legend>August 2024</legend>
-          <ul className="updList">
-            <li>01.08.2024 -  Redux Persist link and command added to Libraries/API</li>
+        <ul className="updList">
+          <li>02.08.2024 - added links to Goit Lections <kbd>Модуль 6, заняття 2. Redux та Redux Toolkit</kbd></li>
+            <li>01.08.2024 -  <kbd>Redux Persist</kbd> link and command added to Libraries/API</li>
           </ul>
         </fieldset>
       <fieldset>
