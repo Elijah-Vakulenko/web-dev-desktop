@@ -382,3 +382,11 @@ li kbd {
   border-radius: 100px;
   background: linear-gradient(#a4deab, #a4deab);
 }
+
+.filteredimg {
+  /* filter: blur(1px); */
+  filter: grayscale(100%);
+  &:hover {
+    filter: none;
+  }
+}

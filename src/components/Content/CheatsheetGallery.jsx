@@ -65,6 +65,7 @@ const CheatsheetGallery = () => {
       {images.map((image, index) => (
         <div className={`grid-item grid-item-${image.id}`} key={image.id}>
           <img
+            className='filteredimg'
             src={image.url}
             alt={`Image ${image.id}`}
             onClick={() => handleImageClick(index)}

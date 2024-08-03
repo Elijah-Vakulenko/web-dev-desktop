@@ -268,7 +268,6 @@ return (
     </li>
 </ul>
 
-
   <h2 id="react-drynkin">React.js від Сергія Дринкіна</h2>
 <ul className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PaJq3dF3R80">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
