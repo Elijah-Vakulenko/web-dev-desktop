@@ -215,6 +215,13 @@ const Libraries = () => {
     <GrCopy />
   </button>
 </li>
+<li className="command">
+  <span>npm install react-router-dom
+</span>
+  <button onClick={() => copyToClipboard('npm install react-router-dom')}>
+    <GrCopy />
+  </button>
+</li>
       </ul>
     </div>
   );
