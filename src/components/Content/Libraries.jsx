@@ -82,6 +82,9 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://www.npmjs.com/package/redux-persist">Redux Persist </a>
           </li>
+          <li>
+            <a className="link-with-favicon" href="https://dummyjson.com/">Dummy JSON database </a>
+          </li>
     
         </ul>
       </div>

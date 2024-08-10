@@ -6,6 +6,8 @@ const upd = () => {
         <fieldset>
           <legend>August 2024</legend>
         <ul className="updList">
+          <li>10.08.2024 - added link <kbd>Dummy JSON</kbd> to Libraries / API <br />
+          -added links to GOIT  LEctions - <kbd>Модуль 7, заняття 1. Асинхронність в Redux </kbd> and <kbd>Модуль 7, заняття 2 Асинхронність в Redux </kbd> along with additional github repository links</li>
           <li>02.08.2024 - added links to Goit Lections <kbd>Модуль 6, заняття 2. Redux та Redux Toolkit</kbd></li>
             <li>01.08.2024 -  <kbd>Redux Persist</kbd> link and command added to Libraries/API</li>
           </ul>

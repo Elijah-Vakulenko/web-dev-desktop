@@ -297,6 +297,11 @@ return (
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l1_Redux/src/components">Модуль 6, заняття 1. Redux та Redux Toolkit  (30.07.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Fmc9yE2kPcY">Модуль 6, заняття 2. Redux та Redux Toolkit  (01.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l2_Redux_Toolkit/src/components">Модуль 6, заняття 2. Redux та Redux Toolkit  (01.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Vq2Obg5UN0M">Модуль 7, заняття 1. Асинхронність в Redux (06.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l1_AsyncRedux/src/components">Модуль 7, заняття 1. Асинхронність в Redux (06.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=df6jVxmTO1U">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l2_Selectors/src/components">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_part_3/src/components">Модуль 7, заняття 2. Форма (08.08.2024)</a></li>
 </ul>
 
 
