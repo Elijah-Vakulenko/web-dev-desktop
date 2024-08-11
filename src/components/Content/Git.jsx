@@ -76,6 +76,17 @@ const Git = () => {
         <li>git merge header - злити до мейну гілку header</li>
         <li>git pull origin main - притягнути поточний стан репозиторію</li>
       </ul>
+
+      <h2>СТВОРЕННЯ ПАПОК ТА ФАЙЛІВ</h2>
+
+      <ul>
+        <li>cd src/components - перехід до потрібної папки в нашому проекті, нехай це буде папка "компоненти"</li>
+        <li>mkdir назва папки - створення папки всередині папки components<br />
+        mkdir Header - для прикладу створимо папку Header</li>
+        <li>touch назва файлу - команда для створення файлу, нехай буде touch Header.jsx. Це для користувачів Linux чи macOS.</li>
+        <li>New-Item -Path . -Name "назва файлу" -ItemType "File" - це команда створення файлу якщо у вас Windows</li>
+        <li>Далі зберігаємо зміни git add Header.jsx та git commit -m "Header.jsx added"</li>
+      </ul>
     </div>
   );
 }
