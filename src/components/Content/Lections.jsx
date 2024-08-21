@@ -13,6 +13,7 @@ return (
                 <li><a href="#js-pashchenko">JavaScript Пашченко</a></li>
                 <li><a href="#react-drynkin">React Дринкін</a></li>
                 <li><a href="#react-repeta">React Репета</a></li>
+                <li><a href="#typescript">TypeScript</a></li>
         <li><a href="#project-guides">Робота з репозиторієм</a></li>
         <li><a href="#audition">Технічна співбесіда</a></li>
         <li><a href="#jscrack">Cracking JS Interview</a></li>
