@@ -5,6 +5,7 @@ import s from './Desktop.module.css';
 import icons from '../../assets/icons.json';
 import { applyLinkScript } from '../linkScript';
 import Hello from '../Modal/Hello';
+import Loader from '../Loader/Loader'
 
 const components = {
   Lections: React.lazy(() => import('../Content/Lections')),
@@ -62,7 +63,7 @@ const Desktop = () => {
             />
             {openModal === icon.modalType && (
               <Modal title={icon.iconTitle} close={handleCloseModal} customStyles={customStyles}>
-                <React.Suspense fallback={<div>Loading...</div>}>
+                <React.Suspense fallback={<Loader />}>
                   <ContentComponent />
                 </React.Suspense>
               </Modal>

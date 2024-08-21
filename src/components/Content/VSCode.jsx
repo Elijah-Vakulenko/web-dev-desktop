@@ -31,7 +31,7 @@ const VSCode = () => {
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph">Git Graph</a></li>
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</a></li>
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow">Indent Rainbow</a></li>
-        <li><a className="link-with-favicon" href=""> </a></li>
+        <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ES Lint </a></li>
       </ul>
     </div>
   )

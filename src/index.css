@@ -390,3 +390,9 @@ li kbd {
     filter: none;
   }
 }
+
+.centralizer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

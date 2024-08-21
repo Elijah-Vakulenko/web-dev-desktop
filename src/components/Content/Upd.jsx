@@ -6,6 +6,8 @@ const upd = () => {
         <fieldset>
           <legend>August 2024</legend>
         <ul className="updList">
+          <li>21.08.2024 - <kbd>Es lint</kbd> extension added to VS Code Plugins <br />
+          -added <kbd>TypeScript lections</kbd> to Go IT lections.</li>
          <li> 17.08.2024 - added links to GOIT  LEctions - <kbd>Модуль 8, заняття 1. Реєстрація та логін користувача</kbd>, <kbd>Модуль 8, заняття 2. Реєстрація та логін користувача</kbd> along with gitHub repositories</li>
           <li>11.08.2024 - added links <kbd>React Redux Quick Start</kbd> and <kbd>Redux Toolkit</kbd> to React <br />
             -added commands to Git hints<br />
@@ -56,7 +58,7 @@ const upd = () => {
      
       <fieldset>
         <legend>June 2024</legend>
-        <ul>
+        <ul className='updList'>
           <li>28.06.2024 - Project launched</li>
         </ul>
       </fieldset>
