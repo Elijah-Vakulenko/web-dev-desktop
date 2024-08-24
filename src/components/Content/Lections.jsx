@@ -313,10 +313,10 @@ return (
 
       <h2 id="typescript">Лекції TypeScript від Володимира Мельника </h2>
       <ul className="list">
-        <li className="link-with-favicon" href="https://github.com/VovaMelnyk/TS-new">Репозиторій по Тайпскрипту</li>
-        <li className="link-with-favicon" href="https://www.youtube.com/watch?v=aqd9Y0c8l94">Модуль 1. Типізація (15.04.2024)</li>
-        <li className="link-with-favicon" href="https://www.youtube.com/watch?v=efq3Xpk4kAI">Модуль 1. Generic в TypeScript (17.04.2024)</li>
-        <li className="link-with-favicon" href="https://www.youtube.com/watch?v=bbjgot8237Y">Модуль 2. TypeScript в React (22.04.2024)</li>
+        <li className="link-with-favicon"><a href="https://github.com/VovaMelnyk/TS-new">Репозиторій по Тайпскрипту</a></li>
+        <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=aqd9Y0c8l94">Модуль 1. Типізація (15.04.2024)</a></li>
+        <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=efq3Xpk4kAI">Модуль 1. Generic в TypeScript (17.04.2024)</a></li>
+        <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=bbjgot8237Y">Модуль 2. TypeScript в React (22.04.2024)</a></li>
         <li className="link-with-favicon" href=""></li>
       </ul>
 
