@@ -313,7 +313,7 @@ return (
     <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" className="link-with-favicon">Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
     <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (15.08.2024)</a></li>
     <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" className="link-with-favicon">Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
-    <li><a href="" className="link-with-favicon">Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=tmey76KYutI" className="link-with-favicon">Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
 </ul>
 
 
