@@ -6,6 +6,7 @@ const upd = () => {
         <fieldset>
           <legend>August 2024</legend>
         <ul className="updList">
+          <li>25.08.2024 - additional <kbd>Blended 1-2 React (Сергій Дикий)</kbd> practice lessons added to GoIt Lections </li>
           <li>21.08.2024 - <kbd>Es lint</kbd> extension added to VS Code Plugins <br />
           -added <kbd>TypeScript lections</kbd> to Go IT lections.</li>
          <li> 17.08.2024 - added links to GOIT  LEctions - <kbd>Модуль 8, заняття 1. Реєстрація та логін користувача</kbd>, <kbd>Модуль 8, заняття 2. Реєстрація та логін користувача</kbd> along with gitHub repositories</li>
