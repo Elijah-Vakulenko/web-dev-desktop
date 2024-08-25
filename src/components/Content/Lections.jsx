@@ -304,16 +304,16 @@ return (
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_06_l2_Redux_Toolkit/src/components">Модуль 6, заняття 2. Redux та Redux Toolkit  (01.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Vq2Obg5UN0M">Модуль 7, заняття 1. Асинхронність в Redux (06.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l1_AsyncRedux/src/components">Модуль 7, заняття 1. Асинхронність в Redux (06.08.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=df6jVxmTO1U">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=wkoQXaml8ws">Практика Blended 1+2 Модуль 7. Сергій Дикий (10.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=df6jVxmTO1U">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=wkoQXaml8ws">Практика Blended 1+2 Модуль 7. Сергій Дикий (10.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l2_Selectors/src/components">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_part_3/src/components">Модуль 7, заняття 2. Форма (08.08.2024)</a></li>
-        <li><a href="https://www.youtube.com/watch?v=E_BGro4RCrM" className="link-with-favicon">Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
-        <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (13.08.2024)</a></li>
-        <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" className="link-with-favicon">Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
-        <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (15.08.2024)</a></li>
-         <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" className="link-with-favicon">Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)
-         <li><a href="" className="link-with-favicon">Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_part_3/src/components">Модуль 7, заняття 2. Форма (08.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=E_BGro4RCrM" className="link-with-favicon">Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" className="link-with-favicon">Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" className="link-with-favicon">Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
+    <li><a href="" className="link-with-favicon">Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
 </ul>
 
 
