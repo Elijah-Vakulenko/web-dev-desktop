@@ -1,10 +1,14 @@
 import React from 'react'
+import { GrCopy } from 'react-icons/gr';
 
 const TS = () => {
+      const copyToClipboard = (text) => {
+    navigator.clipboard.writeText(text);
+  };
   return (
       <div>
           <ul className="list">
-              <li className="link-with-favicon"><a href="https://www.typescriptlang.org/docs/">TypeScript documentation</a></li>
+              <li><a className="link-with-favicon" href="https://www.typescriptlang.org/docs/">TypeScript documentation</a></li>
           </ul>
 
           <h1>Commands for vite+React+TS project</h1>
