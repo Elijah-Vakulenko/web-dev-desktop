@@ -308,12 +308,12 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=wkoQXaml8ws">Практика Blended 1+2 Модуль 7. Сергій Дикий (10.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l2_Selectors/src/components">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_part_3/src/components">Модуль 7, заняття 2. Форма (08.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=E_BGro4RCrM" >Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
-    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" >Реєстрація та логін користувача (13.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" >Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
-    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" >Реєстрація та логін користувача (15.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" >Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=tmey76KYutI" >Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=E_BGro4RCrM" >Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" >Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=9QegnZZAo18" >Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" >Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=516NuzOUTVM" >Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tmey76KYutI" >Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
 </ul>
 
 
