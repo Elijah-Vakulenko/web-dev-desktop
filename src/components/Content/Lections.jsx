@@ -308,12 +308,12 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=wkoQXaml8ws">Практика Blended 1+2 Модуль 7. Сергій Дикий (10.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_l2_Selectors/src/components">Модуль 7, заняття 2. Асинхронність в Redux (08.08.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_07_part_3/src/components">Модуль 7, заняття 2. Форма (08.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=E_BGro4RCrM" className="link-with-favicon">Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
-    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (13.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" className="link-with-favicon">Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
-    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" className="link-with-favicon">Реєстрація та логін користувача (15.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" className="link-with-favicon">Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=tmey76KYutI" className="link-with-favicon">Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=E_BGro4RCrM" >Модуль 8, заняття 1. Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l1_Auth/src/components" >Реєстрація та логін користувача (13.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=9QegnZZAo18" >Модуль 8, заняття 2. Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a href="https://github.com/DrynkinSergey/FS_104_React/tree/module_08_l2_Auth/src/components" >Реєстрація та логін користувача (15.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=516NuzOUTVM" >Практика Blended 1+2 Модуль 8. Сергій Дикий (24.08.2024)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=tmey76KYutI" >Практика Blended 7+8 Модуль 8. Владислав Роженко (25.08.2024)</a></li>
 </ul>
 
 
@@ -351,79 +351,78 @@ return (
       <h2 id='jscrack'>Cracking Js interview</h2>
       <h3>Блок 1</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=IH6VqpTZROk" className="link-with-favicon">Про курс</a></li>
-        <li><a href="https://www.youtube.com/watch?v=wEDhkEDDVQA" className="link-with-favicon">Що потрібно для працевлаштування</a></li>
-        <li><a href="https://www.youtube.com/watch?v=7vv6lTky7_g" className="link-with-favicon">Сфери застосування JS</a></li>
-        <li><a href="https://www.youtube.com/watch?v=b0QhRxbv5lY" className="link-with-favicon">Особливості JS як мови програмування</a></li>
-        <li><a href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" className="link-with-favicon">Як рендериться веб сторінка</a></li>
+        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=IH6VqpTZROk" >Про курс</a></li>
+        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=wEDhkEDDVQA" >Що потрібно для працевлаштування</a></li>
+        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=7vv6lTky7_g" >Сфери застосування JS</a></li>
+        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=b0QhRxbv5lY" >Особливості JS як мови програмування</a></li>
+        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" >Як рендериться веб сторінка</a></li>
       </ul>
       <h3>Блок 2</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=x-5c05RAWQE" className="link-with-favicon">Прості типи даних</a></li>
-        <li><a href="https://www.youtube.com/watch?v=j4IlhdLmEoU" className="link-with-favicon">Типи даних в JS. Обʼєкти</a></li>
-        <li><a href="https://www.youtube.com/watch?v=MLRq-tLnHDg" className="link-with-favicon">Типи колекцій Set, Map</a></li>
-        <li><a href="https://www.youtube.com/watch?v=HyaT8j2Gv-0" className="link-with-favicon">Псевдомасиви</a></li>
-        <li><a href="https://www.youtube.com/watch?v=-aTyCCBkjM0" className="link-with-favicon">Hoisting</a></li>
-        <li><a href="https://www.youtube.com/watch?v=gL1f5iZTmcM" className="link-with-favicon">Суворе, не суворе порівняння</a></li>
-        <li><a href="https://www.youtube.com/watch?v=5-P1eVQbMmA" className="link-with-favicon">Конвертація типів</a></li>
-        <li><a href="https://www.youtube.com/watch?v=kuRt7mG0xxs" className="link-with-favicon">Логічні оператори, опціональний ланцюжок</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=x-5c05RAWQE" >Прості типи даних</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=j4IlhdLmEoU" >Типи даних в JS. Обʼєкти</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=MLRq-tLnHDg" >Типи колекцій Set, Map</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=HyaT8j2Gv-0" >Псевдомасиви</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=-aTyCCBkjM0" >Hoisting</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=gL1f5iZTmcM" >Суворе, не суворе порівняння</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=5-P1eVQbMmA" >Конвертація типів</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=kuRt7mG0xxs" >Логічні оператори, опціональний ланцюжок</a></li>
       </ul>
       <h3>Блок 3</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=CD0S7-DPiIc&t=5s" className="link-with-favicon">Функції</a></li>
-        <li><a href="https://www.youtube.com/watch?v=4b3MGQag4zA" className="link-with-favicon">Замикання, лексичне оточення функції, scope</a></li>
-        <li><a href="https://www.youtube.com/watch?v=omkf18nFSzc" className="link-with-favicon">This, контекст виконання функції, call, apply, bind</a></li>
-        <li><a href="https://www.youtube.com/watch?v=td310h_VqYM" className="link-with-favicon">Композиція функцій, карування, декорація</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=CD0S7-DPiIc&t=5s" >Функції</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4b3MGQag4zA" >Замикання, лексичне оточення функції, scope</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=omkf18nFSzc" >This, контекст виконання функції, call, apply, bind</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=td310h_VqYM" >Композиція функцій, карування, декорація</a></li>
       </ul>
       <h3>Блок 4</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=NUdPY_Vjer0" className="link-with-favicon">Методи масивів - методи мутуючі, методи перебору, методи пошуку</a></li>
-        <li><a href="https://www.youtube.com/watch?v=rtRMVtdFW9Q" className="link-with-favicon">Методи масивів - методи cортування та інші</a></li>
-        <li><a href="https://www.youtube.com/watch?v=AEppNZzz-BE" className="link-with-favicon">Методи обʼєктів - методи перебору, створення, роботи з прототипом</a></li>
-        <li><a href="https://www.youtube.com/watch?v=dk3bX6-GIwM" className="link-with-favicon">Методи захисту обʼєктів</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=NUdPY_Vjer0" >Методи масивів - методи мутуючі, методи перебору, методи пошуку</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rtRMVtdFW9Q" >Методи масивів - методи cортування та інші</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=AEppNZzz-BE" >Методи обʼєктів - методи перебору, створення, роботи з прототипом</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=dk3bX6-GIwM" >Методи захисту обʼєктів</a></li>
       </ul>
       <h3>Блок 5</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=rVNOgKCozZg" className="link-with-favicon">Event loop вступ, setTimeout</a></li>
-        <li><a href="https://www.youtube.com/watch?v=SZcEQR4jy8w" className="link-with-favicon">Event loop пояснення</a></li>
-        <li><a href="https://www.youtube.com/watch?v=V8WXintgPnE" className="link-with-favicon">SetTimeout асинхронний цикл</a></li>
-        <li><a href="https://www.youtube.com/watch?v=MDolHsKRJEM" className="link-with-favicon">Promise вступ</a></li>
-        <li><a href="https://www.youtube.com/watch?v=ADN0HmQnCUk" className="link-with-favicon">Promise.all, Promise.allSettled</a></li>
-        <li><a href="https://www.youtube.com/watch?v=c21vHqHEoH4" className="link-with-favicon">Promise.resolve, Promise.reject</a></li>
-        <li><a href="https://www.youtube.com/watch?v=zhAb1FtLhmQ" className="link-with-favicon">Promise.race, Promise.any, finallу</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rVNOgKCozZg" >Event loop вступ, setTimeout</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SZcEQR4jy8w" >Event loop пояснення</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=V8WXintgPnE" >SetTimeout асинхронний цикл</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=MDolHsKRJEM" >Promise вступ</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ADN0HmQnCUk" >Promise.all, Promise.allSettled</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=c21vHqHEoH4" >Promise.resolve, Promise.reject</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=zhAb1FtLhmQ" >Promise.race, Promise.any, finallу</a></li>
       </ul>
       <h3>Блок 6</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=RswvB0IUpCY" className="link-with-favicon">Урок 6</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=RswvB0IUpCY" >Урок 6</a></li>
 
       </ul>
       <h3>Блок 7</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=n8JB0g8PvJI" className="link-with-favicon">Урок 7</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=n8JB0g8PvJI" >Урок 7</a></li>
       </ul>
       <h3>Блок 8</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=BkzQsptmeXY&t=2s" className="link-with-favicon">Тестування</a></li>
-        <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Повторення</a></li>
-        <li><a href="" className="link-with-favicon"></a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=BkzQsptmeXY&t=2s" >Тестування</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4GZPU2kXWy4" >Повторення</a></li>
       </ul>
       <h3>Старі уроки</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=lR2_SEEIq-M" className="link-with-favicon">Cracking js lesson 2</a></li>
-        <li><a href="https://www.youtube.com/watch?v=WzXZjD4Zlf0" className="link-with-favicon">lesson 2 3</a></li>
-        <li><a href="https://www.youtube.com/watch?v=tr-WO9Mz0jQ" className="link-with-favicon">lesson 4</a></li>
-        <li><a href="https://www.youtube.com/watch?v=MoGnqVOMZzA" className="link-with-favicon">lesson 4 5</a></li>
-        <li><a href="https://www.youtube.com/watch?v=sX6bCH1N1vY" className="link-with-favicon">Lesson 5</a></li>
-        <li><a href="https://www.youtube.com/watch?v=RswvB0IUpCY" className="link-with-favicon">lesson 6 5</a></li>
-        <li><a href="https://www.youtube.com/watch?v=n8JB0g8PvJI" className="link-with-favicon">lesson 7</a></li>
-        <li><a href="https://www.youtube.com/watch?v=BkzQsptmeXY" className="link-with-favicon">Cracking JS interview. part 2. Testing</a></li>
-        <li><a href="https://www.youtube.com/watch?v=4GZPU2kXWy4" className="link-with-favicon">Cracking js interview. Lesson 8. Повторение</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=lR2_SEEIq-M" >Cracking js lesson 2</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=WzXZjD4Zlf0" >lesson 2 3</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=tr-WO9Mz0jQ" >lesson 4</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=MoGnqVOMZzA" >lesson 4 5</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=sX6bCH1N1vY" >Lesson 5</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=RswvB0IUpCY" >lesson 6 5</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=n8JB0g8PvJI" >lesson 7</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=BkzQsptmeXY" >Cracking JS interview. part 2. Testing</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4GZPU2kXWy4" >Cracking js interview. Lesson 8. Повторение</a></li>
       </ul>
      <h3>Додаткові матеріали</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=17Rxi0L0Spc" className="link-with-favicon">Soft skills для співбесіди</a></li>
-  <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" className="link-with-favicon">алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
-  <li><a href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" className="link-with-favicon">ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
+  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=17Rxi0L0Spc" >Soft skills для співбесіди</a></li>
+  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" >алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
+  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" >ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
 </ul>
 
 </div>
