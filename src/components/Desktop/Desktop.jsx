@@ -12,6 +12,7 @@ const components = {
   HTMLContent: React.lazy(() => import('../Content/Html')),
   CSSContent: React.lazy(() => import('../Content/Css')),
   JavaScript: React.lazy(() => import('../Content/JavaScript')),
+  TS: React.lazy(() => import('../Content/TS')),
   ReactLinks: React.lazy(() => import('../Content/ReactLinks')),
   NodeLinks: React.lazy(() => import('../Content/NodeLinks')),
   Libraries: React.lazy(() => import('../Content/Libraries')),

@@ -6,6 +6,8 @@ const upd = () => {
         <fieldset>
           <legend>August 2024</legend>
         <ul className="updList">
+          <li>26.08.2024 - TypeScript icon and folder added. TS documentation + basic commands for React added. <br />
+          -<kbd>Typescript lections Group 79</kbd> added to GoIt Lections</li>
           <li>25.08.2024 - additional <kbd>Blended 1-2 React (Сергій Дикий)</kbd> practice lessons added to GoIt Lections <br />
           -added <kbd>Codeium extension</kbd> to Helpful stuff</li>
           <li>21.08.2024 - <kbd>Es lint</kbd> extension added to VS Code Plugins <br />

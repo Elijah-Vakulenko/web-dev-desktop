@@ -317,15 +317,22 @@ return (
 </ul>
 
 
-      <h2 id="typescript">Лекції TypeScript від Володимира Мельника </h2>
+      <h2 id="typescript">Лекції TypeScript від Володимира Мельника (97-й потік)</h2>
       <ul className="list">
         <li className="link-with-favicon"><a href="https://github.com/VovaMelnyk/TS-new">Репозиторій по Тайпскрипту</a></li>
         <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=aqd9Y0c8l94">Модуль 1. Типізація (15.04.2024)</a></li>
         <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=efq3Xpk4kAI">Модуль 1. Generic в TypeScript (17.04.2024)</a></li>
         <li className="link-with-favicon"><a href="https://www.youtube.com/watch?v=bbjgot8237Y">Модуль 2. TypeScript в React (22.04.2024)</a></li>
-        <li className="link-with-favicon" href=""></li>
       </ul>
 
+      <h2>Лекції TypeScript від Володимира Мельника (79-й потік)</h2>
+      <ul className="list">
+         <li className="link-with-favicon" ><a href="https://www.youtube.com/watch?v=V8tefDOdw2w">Ознайомлення з TypeScript: </a></li>
+         <li className="link-with-favicon" ><a href="https://www.youtube.com/watch?v=h2IBxOaUIf0">Generic в TypeScript</a></li>
+         <li className="link-with-favicon" ><a href="https://www.youtube.com/watch?v=Em3j7rdM3SA">TypeScript в React</a></li>
+      </ul>
+
+      
   <h2
   id="project-guides">Проектування та робота з репозиторієм</h2>
   <ul className="list">
