@@ -85,6 +85,7 @@ const Libraries = () => {
           <li>
             <a className="link-with-favicon" href="https://dummyjson.com/">Dummy JSON database </a>
           </li>
+      <li><a className="link-with-favicon" href="https://www.framer.com/motion/?utm_source=google&utm_medium=adwords&utm_campaign=PerfMax-Framer-ControlTargets-M-July2024-PUBLISH_&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKYyEejIUNP1kjSAeVsS6iwFV9xcnqcLBm4_L1US9m-MY3rpyfCkzycaAmOhEALw_wcB">Framer Motion</a></li>
     
         </ul>
       </div>

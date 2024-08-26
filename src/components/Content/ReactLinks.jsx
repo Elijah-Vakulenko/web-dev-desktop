@@ -22,6 +22,7 @@ const ReactLinks = () => {
     <a className="link-with-favicon" href="https://redux-toolkit.js.org/introduction/getting-started">Redux Toolkit</a>
       </li>
       <li><a className="link-with-favicon" href="https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=ext_app_menu"> встановити розширення для GoogleChrome - Redux DevTools</a></li>
+      <li><a className="link-with-favicon" href="https://www.framer.com/motion/?utm_source=google&utm_medium=adwords&utm_campaign=PerfMax-Framer-ControlTargets-M-July2024-PUBLISH_&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKYyEejIUNP1kjSAeVsS6iwFV9xcnqcLBm4_L1US9m-MY3rpyfCkzycaAmOhEALw_wcB">Framer Motion</a></li>
       
 </ul>
   )

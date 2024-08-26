@@ -17,6 +17,7 @@ const HelpfulStuff = () => {
         <li><a className="link-with-favicon" href="https://www.frontendmentor.io/">Frontend Mentor (for practice)</a></li>
         <li><a className="link-with-favicon" href="https://devchallenges.io/">DevChallenges (for practice)</a></li>
         <li><a className="link-with-favicon" href="https://codeium.com/">Codeium ( free AI powered toolkit)</a></li>
+        <li><a className="link-with-favicon" href="https://playcode.io/">playcode</a></li>
       </ul>
     </div>
   )
