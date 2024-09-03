@@ -15,6 +15,7 @@ return (
                 <li><a href="#react-repeta">React Репета</a></li>
                 <li><a href="#typescript">TypeScript</a></li>
                 <li><a href="#node">Node Мешков</a></li>
+                <li><a href="#node-marchenko">Node Марченко</a></li>
         <li><a href="#project-guides">Робота з репозиторієм</a></li>
         <li><a href="#audition">Технічна співбесіда</a></li>
         <li><a href="#jscrack">Cracking JS Interview</a></li>
@@ -347,6 +348,25 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li>
       </ul>
+      
+<h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко</h2>
+      <ul className="list">
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rcT15qQekiM">Модуль 1. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=W_9M9_o7gNk">Модуль 1. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ifKF6JrMsgw">Модуль 2. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=bYpEvHV2o6M">Модуль 3. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vDUU3-LRixM">Модуль 4. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=e-taX9pZDPw">Модуль 5. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li> */}
+      </ul>
+
+
+
   <h2
   id="project-guides">Проектування та робота з репозиторієм</h2>
   <ul className="list">
