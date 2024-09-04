@@ -2,8 +2,14 @@ import React from 'react'
 
 const upd = () => {
   return (
-      <div>
-        <fieldset>
+    <div>
+      <fieldset>
+        <legend>September 2024</legend>
+        <ul className="updList">
+          <li>04.09.2024 - <kbd>Node.js lection</kbd> added to GoIt Lection. <kbd>editorConfig</kbd> added to VS Code plugins</li>
+        </ul>
+      </fieldset>
+      <fieldset>
           <legend>August 2024</legend>
         <ul className="updList">
           <li>28.08.2024 - <kbd>Node lections</kbd> are added to GoIt Lections</li>

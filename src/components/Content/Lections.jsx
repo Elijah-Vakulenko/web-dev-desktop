@@ -23,7 +23,7 @@ return (
     </div>
           
     <div className="lection_layout">
-      <h2 id="html-danilko">Html/CSS від Андрія Данилка</h2>
+      <h2 id="html-danilko">Html/CSS від Андрія Данилка (104)</h2>
 
       <ul className="list">
                 <li><a className="link-with-favicon" href="https://github.com/riko1212/fs-104"> GitHub FS104 Андрій Данилко</a></li>
@@ -103,7 +103,7 @@ return (
     </li>
       </ul>
 
-  <h2 id="js-kyslicin">JavaScript від Дмитра (Шановного) Кисліцина</h2>
+  <h2 id="js-kyslicin">JavaScript від Дмитра (Шановного) Кисліцина (104)</h2>
 
   <ul className="list">
     <li><a className="link-with-favicon" href="https://youtu.be/H9Y92Vg7cwA?si=eIvzmDE8vQ_FU9nz&t=791">Модуль 1. Заняття 1. Змінні та типи. Основи функцій [Дмитро Кісліцин] (12.03.2024)</a></li>
@@ -271,7 +271,7 @@ return (
     </li>
 </ul>
 
-  <h2 id="react-drynkin">React.js від Сергія Дринкіна</h2>
+  <h2 id="react-drynkin">React.js від Сергія Дринкіна (104)</h2>
 <ul className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PaJq3dF3R80">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
     <li><a className="link-with-favicon" href="https://github.com/DrynkinSergey/FS_104_React/tree/module_01_l1_Components/src/components">Модуль 1. Заняття 1. Компоненти (25.06.2024)</a></li>
@@ -333,7 +333,7 @@ return (
          <li ><a className="link-with-favicon" href="https://www.youtube.com/watch?v=h2IBxOaUIf0">Generic в TypeScript</a></li>
          <li ><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Em3j7rdM3SA">TypeScript в React</a></li>
       </ul>
-<h2 id='node'>Лекції Node.js від Бориса Мешкова</h2>
+<h2 id='node'>Лекції Node.js від Бориса Мешкова (79-й потік)</h2>
       <ul className="list">
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rcT15qQekiM">Модуль 1. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=W_9M9_o7gNk">Модуль 1. Заняття 2.</a></li>
@@ -349,10 +349,11 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li>
       </ul>
       
-<h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко</h2>
+<h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко (104)</h2>
       <ul className="list">
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rcT15qQekiM">Модуль 1. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=W_9M9_o7gNk">Модуль 1. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://github.com/danmar66/fson104">Репозиторій Викладача 104-й потік</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1.</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=W_9M9_o7gNk">Модуль 1. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ifKF6JrMsgw">Модуль 2. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
