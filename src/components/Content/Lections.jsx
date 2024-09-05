@@ -18,7 +18,8 @@ return (
                 <li><a href="#node-marchenko">Node Марченко</a></li>
         <li><a href="#project-guides">Робота з репозиторієм</a></li>
         <li><a href="#audition">Технічна співбесіда</a></li>
-        <li><a href="#jscrack">Cracking JS Interview</a></li>
+        <li><a href="#jscrack">JS Interview</a></li>
+        <li><a href="#reactcrack">React Interview</a></li>
       </ul>
     </div>
           
@@ -456,10 +457,16 @@ return (
       </ul>
      <h3>Додаткові матеріали</h3>
 <ul>
-  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=17Rxi0L0Spc" >Soft skills для співбесіди</a></li>
-  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" >алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
-  <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" >ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
-</ul>
+  <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=17Rxi0L0Spc" >Soft skills для співбесіди</a></li>
+  <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=kl7a1LWXjtI&t=4s" >алгоритмическое мышление на практике. Владимир Агафонкин. </a></li>
+  <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=mub0B5peRIs&list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu&t=219s" >ФРОНТЕНД. Введение во фронтенд | Технострим</a></li>
+      </ul>
+      
+      <h2 id='reactcrack'>React Підготовка до технічної співбесіди</h2>
+      <ul>
+        <li><a className="link-with-favicon" href="https://docs.google.com/presentation/d/15s1lWxCEdyC6q3nPLgN6N7JqKG08GMCZU0m_h-15eRk/edit#slide=id.g20422b023dc_0_569">React Підготовка до технічної співбесіди</a></li>
+        <li><a className="link-with-favicon" href="https://docs.google.com/spreadsheets/d/1pCzoNnuZ0qLBMyqMmA7DVZACpphpJ8Y7nu8QBMAAVvU/edit?gid=538001204#gid=538001204">React Підготовка до технічної співбесіди</a></li>
+      </ul>
 
 </div>
   </>
