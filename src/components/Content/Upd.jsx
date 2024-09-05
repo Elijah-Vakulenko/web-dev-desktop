@@ -6,6 +6,7 @@ const upd = () => {
       <fieldset>
         <legend>September 2024</legend>
         <ul className="updList">
+          <li>05.09.2024 - <kbd>Node js Модуль 1. Заняття 2.</kbd> added to GoIt Lections</li>
           <li>04.09.2024 - <kbd>Node.js lection</kbd> added to GoIt Lection. <kbd>editorConfig</kbd> added to VS Code plugins</li>
         </ul>
       </fieldset>
