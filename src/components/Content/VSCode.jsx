@@ -33,6 +33,7 @@ const VSCode = () => {
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow">Indent Rainbow</a></li>
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ES Lint </a></li>
         <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">editorConfig</a></li>
+        <li><a className="link-with-favicon" href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">GitLens — Supercharge Git in VS Code</a></li>
       </ul>
     </div>
   )
