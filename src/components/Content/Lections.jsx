@@ -356,6 +356,8 @@ return (
         <li><a className="link-with-favicon" href="https://github.com/danmar66/fson104">Репозиторій Викладача 104-й потік</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XyHNVVKiV2I">Модуль 1. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=OKo9ZDALGvk">Практика blended 5+6 Модуль 1. Основи Node.js Альона Гарник (08.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://github.com/BilousPM/noda-practice">Практика blended 5+6 Репозиторій</a></li>
         {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ifKF6JrMsgw">Модуль 2. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
