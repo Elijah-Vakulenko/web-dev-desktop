@@ -16,6 +16,7 @@ return (
                 <li><a href="#typescript">TypeScript</a></li>
                 <li><a href="#node">Node Мешков</a></li>
                 <li><a href="#node-marchenko">Node Марченко</a></li>
+                <li><a href="#node-lyamzin">Node Лямзін</a></li>
         <li><a href="#project-guides">Робота з репозиторієм</a></li>
         <li><a href="#audition">Технічна співбесіда</a></li>
         <li><a href="#jscrack">JS Interview</a></li>
@@ -368,6 +369,22 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=e-taX9pZDPw">Модуль 5. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li> */}
+      </ul>
+      
+<h2 id='node-lyamzin'>Лекції Node.js від Богдана Лямзіна (100-й потік)</h2>
+      <ul className="list">
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=horEo6Qr9OU">Модуль 2. Заняття 1. Express. Основи MongoDB</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=oL-70huQkHw">Модуль 2. Заняття 2. Express. Основи MongoDB</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Khy9oC60x8M">Модуль 3. Заняття 1. Організація коду. REST API</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SUV9hEYS7w8">Модуль 3. Заняття 2. Організація коду. REST API</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=djyDZ-wB9kw">Модуль 4. Заняття 1. Валідація даних. Пагінація, сортування і фільтри</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SXJ6uur46YI">Модуль 4. Заняття 2. Валідація даних. Пагінація, сортування і фільтри</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=sBVaPPbRGbo">Модуль 5. Заняття 1. Аутентифікація і авторизація</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=kzKj4Cr8gvQ">Модуль 5. Заняття 2. Аутентифікація і авторизація</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=xQ4xMQ6es6M">Модуль 6. Заняття 1. Пошта. Робота з зображенням</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZhsFVpXg-ds">Модуль 6. Заняття 2. Пошта. Робота з зображенням</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3dOWAcpWG7g">Модуль 7. Заняття 1. Авторизація. Swagger та OpenAPI</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rF9MmLPKn14">Модуль 7. Заняття 2. Авторизація. Swagger та OpenAPI</a></li>
       </ul>
 
 
