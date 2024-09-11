@@ -208,7 +208,7 @@ return (
 </ul>
 
 
-              <h2 id="js-pashchenko">JavaScript від Володимира Пашченко (105-й потік)</h2>
+              <h2 id="js-pashchenko">JavaScript від Володимира Пашченко (98 / 105-й потік)</h2>
  
         <ul className="list">
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 1. Перетворювання типів: числа</a></li>
@@ -355,12 +355,12 @@ return (
 <h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко (104-й потік)</h2>
       <ul className="list">
         <li><a className="link-with-favicon" href="https://github.com/danmar66/fson104">Репозиторій Викладача 104-й потік</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XyHNVVKiV2I">Модуль 1. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1.(03.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XyHNVVKiV2I">Модуль 1. Заняття 2. (05.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=OKo9ZDALGvk">Практика blended 5+6 Модуль 1. Основи Node.js Альона Гарник (08.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://github.com/BilousPM/noda-practice">Практика blended 5+6 Репозиторій</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ifKF6JrMsgw">Модуль 2. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=mhBmDxos1PM&t">Модуль 2. Заняття 1. (10.09.2024)</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=bYpEvHV2o6M">Модуль 3. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
@@ -387,8 +387,6 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=rF9MmLPKn14">Модуль 7. Заняття 2. Авторизація. Swagger та OpenAPI</a></li>
       </ul>
 
-
-
   <h2
   id="project-guides">Проектування та робота з репозиторієм</h2>
   <ul className="list">
@@ -407,11 +405,11 @@ return (
       <h2 id='jscrack'>Cracking Js interview</h2>
       <h3>Блок 1</h3>
       <ul>
-        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=IH6VqpTZROk" >Про курс</a></li>
-        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=wEDhkEDDVQA" >Що потрібно для працевлаштування</a></li>
-        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=7vv6lTky7_g" >Сфери застосування JS</a></li>
-        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=b0QhRxbv5lY" >Особливості JS як мови програмування</a></li>
-        <li><a className="link-with-favicon" className="link-with-favicon" href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" >Як рендериться веб сторінка</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=IH6VqpTZROk" >Про курс</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=wEDhkEDDVQA" >Що потрібно для працевлаштування</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7vv6lTky7_g" >Сфери застосування JS</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=b0QhRxbv5lY" >Особливості JS як мови програмування</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ln_Eg2ypEh4" >Як рендериться веб сторінка</a></li>
       </ul>
       <h3>Блок 2</h3>
       <ul>

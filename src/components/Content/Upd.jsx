@@ -6,6 +6,7 @@ const upd = () => {
       <fieldset>
         <legend>September 2024</legend>
         <ul className="updList">
+          <li>11.09.2024 - <kbd>Урок Модуль 2. Express. Основи MongoDB</kbd> added to GoIT Lections</li>
           <li>09.09.2024 - <kbd>Node.js від Богдана Лямзіна (100-й потік)</kbd> lections added to GoIt Lections</li>
           <li>08.09.2024 - <kbd>Практика blended 5+6 Модуль 1. Основи Node.js</kbd> + <kbd>Практика blended 5+6 Репозиторій</kbd>added to GoIt Lections <br /> <kbd>GitLens — Supercharge Git in VS Code</kbd> added to VS Code Plugins
           </li>
