@@ -352,16 +352,16 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li>
       </ul>
       
-<h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко (104-й потік)</h2>
+<h2 id='node-marchenko'>Лекції Node.js від Даніїла Марченко / Борис Мешков (104-й потік)</h2>
       <ul className="list">
         <li><a className="link-with-favicon" href="https://github.com/danmar66/fson104">Репозиторій Викладача 104-й потік</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1.(03.09.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XyHNVVKiV2I">Модуль 1. Заняття 2. (05.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=J9jnM4fIr-k">Модуль 1. Заняття 1. Марченко (03.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XyHNVVKiV2I">Модуль 1. Заняття 2. Марченко (05.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=OKo9ZDALGvk">Практика blended 5+6 Модуль 1. Основи Node.js Альона Гарник (08.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://github.com/BilousPM/noda-practice">Практика blended 5+6 Репозиторій</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=mhBmDxos1PM&t">Модуль 2. Заняття 1. (10.09.2024)</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=hKMrM3IiwUM">Модуль 2. Заняття 2.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=mhBmDxos1PM&t">Модуль 2. Заняття 1. Марченко (10.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i4m4MZT0fhQ">Модуль 2. Заняття 2. Марченко (12.09.2024)</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=bYpEvHV2o6M">Модуль 3. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vDUU3-LRixM">Модуль 4. Заняття 2.</a></li>
@@ -373,6 +373,7 @@ return (
       
 <h2 id='node-lyamzin'>Лекції Node.js від Богдана Лямзіна (100-й потік)</h2>
       <ul className="list">
+        <li><a className="link-with-favicon" href="https://github.com/BogdanLyamzin/Node.js-100">Репозиторій Node.js 100-й потік, Богдан Лямзін</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=horEo6Qr9OU">Модуль 2. Заняття 1. Express. Основи MongoDB</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=oL-70huQkHw">Модуль 2. Заняття 2. Express. Основи MongoDB</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Khy9oC60x8M">Модуль 3. Заняття 1. Організація коду. REST API</a></li>
