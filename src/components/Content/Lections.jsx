@@ -208,9 +208,10 @@ return (
 </ul>
 
 
-              <h2 id="js-pashchenko">JavaScript від Володимира Пашченко (98 / 105-й потік)</h2>
- 
+              <h2 id="js-pashchenko">JavaScript від Володимира Пашченко ( 105-й / 98-й потік)</h2>
+      <h3>105-й</h3>
         <ul className="list">
+    <li><a className="link-with-favicon" href="https://github.com/GoITteacher/FS-105">Репозиторій 105</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 1. Перетворювання типів: числа</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 2.</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=O8yn9qSOobE&ab_channel=GoIT">Модуль-2-1</a></li>
@@ -224,7 +225,11 @@ return (
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=EZmfe9eTZrY&t=1s&ab_channel=GoIT">Модуль-6-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=HoynC0-Ki88&t=2s&ab_channel=GoIT">Модуль-6-2</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=sVZseOyqnVs&ab_channel=GoIT">Модуль-7-1</a></li>
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=2ULk1Nd1EFc&ab_channel=GoIT">Модуль-7-2</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=2ULk1Nd1EFc&ab_channel=GoIT">Модуль-7-2</a></li>
+      </ul>
+      <h3>98-й</h3>
+      <ul className="list">
+    <li><a className="link-with-favicon" href="https://github.com/GoITteacher/FS-98">Репозиторій 98</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=NRf8oF7JaJM&t=5707s&ab_channel=GoIT">Модуль-8-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=X-XhFsAHHGw&ab_channel=GoIT">Модуль-8-2</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=X3tjGM3Ad6E&ab_channel=GoIT">Модуль-9-1</a></li>
