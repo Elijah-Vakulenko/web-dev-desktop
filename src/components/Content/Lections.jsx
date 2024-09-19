@@ -366,9 +366,9 @@ return (
         <li><a className="link-with-favicon" href="https://github.com/BilousPM/noda-practice">Практика blended 5+6 Репозиторій</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=mhBmDxos1PM&t">Модуль 2. Заняття 1. Марченко (10.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i4m4MZT0fhQ">Модуль 2. Заняття 2. Марченко (12.09.2024)</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=iTkG7pbkjdQ">Модуль 3. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=bYpEvHV2o6M">Модуль 3. Заняття 2.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=59U-wFVnVIA&t">Модуль 3. Заняття 1. Мешков (17.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=6nzOeHaCl1o">Модуль 3. Заняття 2. Мешков (19.09.2024)</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vDUU3-LRixM">Модуль 4. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=e-taX9pZDPw">Модуль 5. Заняття 2.</a></li>
