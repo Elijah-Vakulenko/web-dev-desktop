@@ -368,6 +368,7 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i4m4MZT0fhQ">Модуль 2. Заняття 2. Марченко (12.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=59U-wFVnVIA&t">Модуль 3. Заняття 1. Мешков (17.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=6nzOeHaCl1o">Модуль 3. Заняття 2. Мешков (19.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API (22.09.2024)</a></li>
         {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vDUU3-LRixM">Модуль 4. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>

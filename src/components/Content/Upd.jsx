@@ -6,6 +6,7 @@ const upd = () => {
       <fieldset>
         <legend>September 2024</legend>
         <ul className="updList">
+        <li>23.09.2024 - <kbd>Практика blended 5+6 Модуль 3. Організація коду. REST API</kbd> added to GoIT Lections</li>
           <li>19.09.2024 - <kbd>Node.js Модуль 3. Організація коду. REST API</kbd>added to GoIT Lections</li>
           <li>16.09.2024 - repositories 98 and 105 of <kbd>JavaScript від Володимира Пашченко</kbd> added to GoIt Lections</li>
           <li>15.09.2024 - <kbd>Урок Модуль 2. Express. Основи MongoDB</kbd> added to GoIT Lections, <kbd>Репозиторій Node.js від Богдана Лямзіна</kbd> added to GoIt Lection</li>
