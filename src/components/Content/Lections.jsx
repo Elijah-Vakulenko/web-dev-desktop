@@ -212,8 +212,8 @@ return (
       <h3>105-й</h3>
         <ul className="list">
     <li><a className="link-with-favicon" href="https://github.com/GoITteacher/FS-105">Репозиторій 105</a></li>
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 1. Підключення скрипту. Типи даних. Знайомство з консоллю. Змінні. Арифметичні оператори. Конкатенація. Шаблонні рядки. Перетворення типів. Розщирення для JS у VS Code</a></li>
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 2.</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 1. Підключення скрипту. Типи даних. Знайомство з консоллю. Змінні. Арифметичні оператори. Конкатенація. Шаблонні рядки. Перетворення типів. Розщирення для JS у VS Code</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 2. Перетворення типів: числа. Оператори порівняння. Методи parseInt / parseFloat. Методи Math. Оголошення функцій, їх параметри та аргументи. Повернення функції і області видимості. Методи replace() та toFixed()</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=O8yn9qSOobE&ab_channel=GoIT">Модуль-2-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4bHqcYlxg2E&t=1s&ab_channel=GoIT">Модуль-2-2</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=FZuKt9BVtB8&ab_channel=GoIT">Модуль 2. Заняття 1. Масиви і функції</a></li>
@@ -368,10 +368,10 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i4m4MZT0fhQ">Модуль 2. Заняття 2. Марченко (12.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=59U-wFVnVIA&t">Модуль 3. Заняття 1. Мешков (17.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=6nzOeHaCl1o">Модуль 3. Заняття 2. Мешков (19.09.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API (22.09.2024)</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=q68uiuD_NmM">Модуль 4. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vDUU3-LRixM">Модуль 4. Заняття 2.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API  (22.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=0t17guEhmiw&t">Модуль 4. Заняття 1. Валідація даних. Пагінація, сортування і фільтри Мешков (24.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vGwibR2pm_4">Модуль 4. Заняття 2. Мешков (26.09.2024)</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=e-taX9pZDPw">Модуль 5. Заняття 2.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li> */}
