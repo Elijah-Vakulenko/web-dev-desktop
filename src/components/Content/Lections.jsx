@@ -212,7 +212,7 @@ return (
       <h3>105-й</h3>
         <ul className="list">
     <li><a className="link-with-favicon" href="https://github.com/GoITteacher/FS-105">Репозиторій 105</a></li>
-    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 1. Підключення скрипту. Типи даних. Знайомство з консоллю. Змінні. Арифметичні оператори. Конкатенація. Шаблонні рядки. Перетворення типів. Розщирення для JS у VS Code</a></li>
+    <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=LSEiLWfT7Pk&ab_channel=GoIT">Модуль 1. Заняття 1. Підключення скрипту. Типи даних. Знайомство з консоллю. Змінні. Арифметичні оператори. Конкатенація. Шаблонні рядки. Перетворення типів: рядки. Розширення для JS у VS Code</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=7XZSHuNLL-g&ab_channel=GoIT">Модуль 1. Заняття 2. Перетворення типів: числа. Оператори порівняння. Методи parseInt / parseFloat. Методи Math. Оголошення функцій, їх параметри та аргументи. Повернення функції і області видимості. Методи replace() та toFixed()</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=O8yn9qSOobE&ab_channel=GoIT">Модуль-2-1</a></li>
     <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=4bHqcYlxg2E&t=1s&ab_channel=GoIT">Модуль-2-2</a></li>
