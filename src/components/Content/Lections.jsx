@@ -371,8 +371,9 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API  (22.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=0t17guEhmiw&t">Модуль 4. Заняття 1. Валідація даних. Пагінація, сортування і фільтри Мешков (24.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vGwibR2pm_4">Модуль 4. Заняття 2. Мешков (26.09.2024)</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XYyjjIVpqwg">Модуль 5. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=e-taX9pZDPw">Модуль 5. Заняття 2.</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i1NjET-boqQ">Модуль 5. Заняття 1.Аутентифікація і авторизація. Мешков (01.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=plJCPxhPTis">Модуль 5. Заняття 2. Аутентифікація і авторизація. Мешков (03.10.2024)</a></li>
+        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 5. Організація коду. REST API  (06.10.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li> */}
       </ul>
