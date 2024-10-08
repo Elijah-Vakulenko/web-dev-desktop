@@ -6,7 +6,8 @@ const upd = () => {
       <fieldset>
         <legend>October 2024 </legend>
           <ul className="updList">
-            <li>06.10.2024 - Lections <span>Node.js Модуль 5.  Аутентифікація і авторизація.</span> added to GoIT Lections</li>
+          <li>06.10.2024 - Lections <span>Node.js Модуль 5.  Аутентифікація і авторизація.</span> added to GoIT Lections</li>
+          <li>08.10.2024 - <span>React Syntax Highlighter</span> added to Libraries / API</li>
           </ul>
       </fieldset>
       <fieldset>

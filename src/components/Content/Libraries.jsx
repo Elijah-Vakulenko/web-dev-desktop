@@ -77,6 +77,9 @@ const Libraries = () => {
             <a className="link-with-favicon" href="https://www.react-spring.dev/">React-spring (animation library for React)</a>
           </li>
           <li>
+            <a className="link-with-favicon" href="https://github.com/react-syntax-highlighter/react-syntax-highlighter">React Syntax Highlighter</a>
+          </li>
+          <li>
             <a className="link-with-favicon" href="https://mojs.github.io/">Mo.js (animation library)</a>
           </li>
           <li>

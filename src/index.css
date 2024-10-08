@@ -265,14 +265,14 @@ html {
   grid-row: span 2;
 }
 
-li span {
+/* li span {
   border: 2px solid black;
   box-shadow: 2px 2px black;
   font-weight: bold;
   padding: 2px 4px;
   margin-right: 4px;
   white-space: nowrap;
-}
+} */
 
 .overlay {
   z-index: 999; /* Ensure the overlay itself is high enough */
