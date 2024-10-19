@@ -368,14 +368,17 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i4m4MZT0fhQ">Модуль 2. Заняття 2. Марченко (12.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=59U-wFVnVIA&t">Модуль 3. Заняття 1. Мешков (17.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=6nzOeHaCl1o">Модуль 3. Заняття 2. Мешков (19.09.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API  (22.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 3. Організація коду. REST API Альона Гарник  (22.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=0t17guEhmiw&t">Модуль 4. Заняття 1. Валідація даних. Пагінація, сортування і фільтри Мешков (24.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=vGwibR2pm_4">Модуль 4. Заняття 2. Мешков (26.09.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=i1NjET-boqQ">Модуль 5. Заняття 1.Аутентифікація і авторизація. Мешков (01.10.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=plJCPxhPTis">Модуль 5. Заняття 2. Аутентифікація і авторизація. Мешков (03.10.2024)</a></li>
-        {/* <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=SCKhXYPoz4Y&t">Практика blended 5+6 Модуль 5. Організація коду. REST API  (06.10.2024)</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=ZxTtEhAVZnA">Модуль 6. Заняття 1.</a></li>
-        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=3WUAblHFrUQ">Модуль 6. Заняття 2.</a></li> */}
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=XZE7pnC2oQc">Практика blended 5+6 Модуль 5. Альона Гарник (06.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=x71H9luLU2M">Модуль 6. Заняття 1. Пошта. Робота з зображенням Мешков (08.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=HNZW6WB1Qhw">Модуль 6. Заняття 2. Пошта. Робота з зображенням Мешков (10.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=gdgY1ItHsU0">Модуль 7. Заняття 1. Авторизація. Swagger та OpenAPI. Мешков (15.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PHz2xuIxS10">Модуль 7. Заняття 2. Авторизація. Swagger та OpenAPI. Мешков (17.10.2024)</a></li>
+        <li><a className="link-with-favicon" href="">Практика blended 5+6 Модуль 7. Альона Гарник (20.09.2024)</a></li>
       </ul>
       
 <h2 id='node-lyamzin'>Лекції Node.js від Богдана Лямзіна (100-й потік)</h2>
