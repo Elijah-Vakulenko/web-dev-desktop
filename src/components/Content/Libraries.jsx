@@ -7,7 +7,7 @@ const Libraries = () => {
   };
 
   return (
-    <div>
+    <div className='wrapperLib'>
       <div>
         <ul className="list">
           <li>
@@ -93,143 +93,145 @@ const Libraries = () => {
         </ul>
       </div>
 
-      <h3>Команди інсталяції для консолі:</h3>
-
-      <ul className="command-list">
-       <li className="command">
-  <span>npm create vite@latest</span>
-  <button onClick={() => copyToClipboard('npm create vite@latest')}>
-    <GrCopy />
-  </button>
-        </li>
-       <li className="command">
-  <span>npm install</span>
-  <button onClick={() => copyToClipboard('npm install')}>
-    <GrCopy />
-  </button>
-        </li>
-<li className="command">
-  <span>npm run dev</span>
-  <button onClick={() => copyToClipboard('npm run dev')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install modern-normalize</span>
-  <button onClick={() => copyToClipboard('npm install modern-normalize')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install simplelightbox</span>
-  <button onClick={() => copyToClipboard('npm install simplelightbox')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install izitoast --save</span>
-  <button onClick={() => copyToClipboard('npm install izitoast --save')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>$ npm install swiper</span>
-  <button onClick={() => copyToClipboard('$ npm install swiper')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install axios</span>
-  <button onClick={() => copyToClipboard('npm install axios')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install accordion-js</span>
-  <button onClick={() => copyToClipboard('npm install accordion-js')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install react-icons</span>
-  <button onClick={() => copyToClipboard('npm install react-icons')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install formik --save</span>
-  <button onClick={() => copyToClipboard('npm install formik --save')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install nanoid</span>
-  <button onClick={() => copyToClipboard('npm install nanoid')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install clsx</span>
-  <button onClick={() => copyToClipboard('npm install clsx')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install Yup</span>
-  <button onClick={() => copyToClipboard('npm install yup')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install react-hot-toast</span>
-  <button onClick={() => copyToClipboard('npm install react-hot-toast')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install --save react-modal</span>
-  <button onClick={() => copyToClipboard('npm install --save react-modal')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install react-loader-spinner --save</span>
-  <button onClick={() => copyToClipboard('npm install react-loader-spinner --save')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install react-redux</span>
-  <button onClick={() => copyToClipboard('npm install react-redux')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install @reduxjs/toolkit</span>
-  <button onClick={() => copyToClipboard('npm install @reduxjs/toolkit')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm i @react-spring/web</span>
-  <button onClick={() => copyToClipboard('npm i @react-spring/web')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm i redux-persist</span>
-  <button onClick={() => copyToClipboard('npm i redux-persist')}>
-    <GrCopy />
-  </button>
-</li>
-<li className="command">
-  <span>npm install react-router-dom
-</span>
-  <button onClick={() => copyToClipboard('npm install react-router-dom')}>
-    <GrCopy />
-  </button>
-</li>
-      </ul>
+     <div>
+        <h3>Команди інсталяції для консолі:</h3>
+  
+        <ul className="command-list">
+         <li className="command">
+    <span>npm create vite@latest</span>
+    <button onClick={() => copyToClipboard('npm create vite@latest')}>
+      <GrCopy />
+    </button>
+          </li>
+         <li className="command">
+    <span>npm install</span>
+    <button onClick={() => copyToClipboard('npm install')}>
+      <GrCopy />
+    </button>
+          </li>
+  <li className="command">
+    <span>npm run dev</span>
+    <button onClick={() => copyToClipboard('npm run dev')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install modern-normalize</span>
+    <button onClick={() => copyToClipboard('npm install modern-normalize')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install simplelightbox</span>
+    <button onClick={() => copyToClipboard('npm install simplelightbox')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install izitoast --save</span>
+    <button onClick={() => copyToClipboard('npm install izitoast --save')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>$ npm install swiper</span>
+    <button onClick={() => copyToClipboard('$ npm install swiper')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install axios</span>
+    <button onClick={() => copyToClipboard('npm install axios')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install accordion-js</span>
+    <button onClick={() => copyToClipboard('npm install accordion-js')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install react-icons</span>
+    <button onClick={() => copyToClipboard('npm install react-icons')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install formik --save</span>
+    <button onClick={() => copyToClipboard('npm install formik --save')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install nanoid</span>
+    <button onClick={() => copyToClipboard('npm install nanoid')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install clsx</span>
+    <button onClick={() => copyToClipboard('npm install clsx')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install Yup</span>
+    <button onClick={() => copyToClipboard('npm install yup')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install react-hot-toast</span>
+    <button onClick={() => copyToClipboard('npm install react-hot-toast')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install --save react-modal</span>
+    <button onClick={() => copyToClipboard('npm install --save react-modal')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install react-loader-spinner --save</span>
+    <button onClick={() => copyToClipboard('npm install react-loader-spinner --save')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install react-redux</span>
+    <button onClick={() => copyToClipboard('npm install react-redux')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install @reduxjs/toolkit</span>
+    <button onClick={() => copyToClipboard('npm install @reduxjs/toolkit')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm i @react-spring/web</span>
+    <button onClick={() => copyToClipboard('npm i @react-spring/web')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm i redux-persist</span>
+    <button onClick={() => copyToClipboard('npm i redux-persist')}>
+      <GrCopy />
+    </button>
+  </li>
+  <li className="command">
+    <span>npm install react-router-dom
+  </span>
+    <button onClick={() => copyToClipboard('npm install react-router-dom')}>
+      <GrCopy />
+    </button>
+  </li>
+        </ul>
+     </div>
     </div>
   );
 };
