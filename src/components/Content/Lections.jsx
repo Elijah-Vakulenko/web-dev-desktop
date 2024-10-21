@@ -378,7 +378,7 @@ return (
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=HNZW6WB1Qhw">Модуль 6. Заняття 2. Пошта. Робота з зображенням Мешков (10.10.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=gdgY1ItHsU0">Модуль 7. Заняття 1. Авторизація. Swagger та OpenAPI. Мешков (15.10.2024)</a></li>
         <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=PHz2xuIxS10">Модуль 7. Заняття 2. Авторизація. Swagger та OpenAPI. Мешков (17.10.2024)</a></li>
-        <li><a className="link-with-favicon" href="">Практика blended 5+6 Модуль 7. Альона Гарник (20.09.2024)</a></li>
+        <li><a className="link-with-favicon" href="https://www.youtube.com/watch?v=Gr8Ts5MwMBA">Практика blended 5+6 Модуль 7. Авторизація. Swagger та OpenAPI. Альона Гарник (20.09.2024)</a></li>
       </ul>
       
 <h2 id='node-lyamzin'>Лекції Node.js від Богдана Лямзіна (100-й потік)</h2>
