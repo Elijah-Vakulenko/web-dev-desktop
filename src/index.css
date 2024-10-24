@@ -384,6 +384,7 @@ html {
 }
 
 .filteredimg {
+  border: 1px solid black;
   /* filter: blur(1px); */
   filter: grayscale(100%);
   &:hover {
