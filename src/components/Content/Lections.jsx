@@ -13,6 +13,7 @@ return (
                 <li><a href="#js-pashchenko">JavaScript Пашченко</a></li>
                 <li><a href="#react-drynkin">React Дринкін</a></li>
                 <li><a href="#react-repeta">React Репета</a></li>
+                <li><a href="#react-repeta2">React Репета 106</a></li>
                 <li><a href="#typescript">TypeScript</a></li>
                 <li><a href="#node">Node Мешков</a></li>
                 <li><a href="#node-marchenko">Node Марченко</a></li>
@@ -276,6 +277,26 @@ return (
         <a className="link-with-favicon" href="https://youtu.be/bayT73tohnI">Модуль 8. Заняття 1</a>
         <a className="link-with-favicon" href="https://youtu.be/nouM1_BL-Gg">Модуль 8. Заняття 2</a>
     </li>
+      </ul>
+      
+     <h2 id="react-repeta2">React.js від Олександра Репети (106-й потік)</h2>
+<ul className="list">
+  <li><a href="https://www.youtube.com/watch?v=PS-CcfOZ9qA" className="link-with-favicon">Модуль 1. Заняття 1. Компоненти (05.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Z-sJrryqo6s" className="link-with-favicon">Модуль 1. Заняття 2. Компоненти (07.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Og_E39XY7nc" className="link-with-favicon">Модуль 2. Заняття 1. Події. Стан компонента (12.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IjU25CPPmMw" className="link-with-favicon">Модуль 2. Заняття 2. Події. Стан компонента (14.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=aSfqoJVB0to" className="link-with-favicon">Модуль 3. Заняття 1. Форми (19.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7sdPjSbradM" className="link-with-favicon">Модуль 3. Заняття 2. Форми (21.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=akqXZJKXATc" className="link-with-favicon">Модуль 4. Заняття 1. HTTP-запити. Хуки (26.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=n8V4YUh9LvQ" className="link-with-favicon">Модуль 4. Заняття 2. HTTP-запити. Хуки (28.08.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=TIr7cXTUMq8" className="link-with-favicon">Модуль 5. Заняття 1. React Router (02.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OFg73cvlgBo" className="link-with-favicon">Модуль 5. Заняття 2. React Router (04.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9dHDSUxz3Bs" className="link-with-favicon">Модуль 6. Заняття 1. Redux та Redux Toolkit (09.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ivmpuF7N2zA" className="link-with-favicon">Модуль 6. Заняття 2. Redux та Redux Toolkit (11.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=t98m5EHLjZw" className="link-with-favicon">Модуль 7. Заняття 1. Асинхронність в Redux (16.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=-IwiyixDwW4" className="link-with-favicon">Модуль 7. Заняття 2. Асинхронність в Redux (18.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=bVXNywgPwIg" className="link-with-favicon">Модуль 8. Заняття 1. Реєстрація та логін користувача (23.09.2024)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Y4NVeGYlB14" className="link-with-favicon">Модуль 8. Заняття 2. Реєстрація та логін користувача (25.09.2024)</a></li>
 </ul>
 
   <h2 id="react-drynkin">React.js від Сергія Дринкіна (104-й потік)</h2>

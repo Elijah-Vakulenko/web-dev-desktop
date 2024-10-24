@@ -6,6 +6,7 @@ const upd = () => {
       <fieldset>
         <legend>October 2024 </legend>
         <ul className="updList">
+          <li>24.10.2024 - <span>Курс лекцій по React.js від Олександра Репети (106-й потік)</span> added to GoIT Lections</li>
           <li>21.10.2024 - <span>Практика blended 5+6 Модуль 7. Авторизація. Swagger та OpenAPI. Альона Гарник (20.09.2024)</span> added to GoIT Lections</li>
           <li>19.10.2024 - Lections <span>Node.js Модуль 6-7.</span> added to GoIT Lections</li>
           <li>06.10.2024 - Lections <span>Node.js Модуль 5.  Аутентифікація і авторизація.</span> added to GoIT Lections</li>
