@@ -3,6 +3,14 @@ import React from 'react'
 const upd = () => {
   return (
     <div>
+       <fieldset>
+        <legend>November 2024 </legend>
+        <ul className="updList">
+          <li>16.11.2024 - added link for <span>http://latentflip.com/</span> to JavaScript <br />
+            - added link <span>100L5 - CSS Tools</span> to CSS <br />
+          - added link <span>CSS Clip-Path Generator</span>to CSS </li>
+          </ul>
+      </fieldset>
       <fieldset>
         <legend>October 2024 </legend>
         <ul className="updList">

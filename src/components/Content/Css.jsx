@@ -42,6 +42,12 @@ const Css = () => {
             <li>
                 <a className="link-with-favicon" href="https://unused-css.com/">Unused CSS (CSS code optimizer)r</a>
             </li>
+            <li>
+                <a className="link-with-favicon" href="https://10015.io/tools/css-loader-generator">100L5 CSS tools (different generators)</a>
+            </li>
+            <li>
+                <a className="link-with-favicon" href="https://www.cssportal.com/css-clip-path-generator/">CSS Clip-Path Generator</a>
+            </li>
         </ul>
     )
 };
